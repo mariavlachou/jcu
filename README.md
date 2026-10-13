@@ -6,7 +6,7 @@ Our implementation uses a retrieval pipeline with BM25 and the top-100 re-ranked
 
 ## Setup
 
-### Main environment
+### Getting Started
 
 ```sh
 pip install -r requirements.txt
@@ -15,9 +15,7 @@ pip install -r requirements.txt
 
 ### Qwen3.5 environment (only for `run_model.sh`)
 
-Qwen3.5 needs newer `transformers` and `llama-cpp-python` versions
-than the main environment. They are installed in a separate virtual environment that reuses
-all other packages of the main environment:
+Qwen3.5 needs newer `transformers` and `llama-cpp-python` versions than the main environment. They are installed in a separate virtual environment that reuses all other packages of the main environment:
 
 ```sh
 python -m venv --system-site-packages .venv-qwen
@@ -46,8 +44,7 @@ snapshot_download('Qwen/Qwen3.5-4B', allow_patterns=['*.json', '*.jinja', '*.txt
 | 7. Correlations with nDCG@k (Spearman, Pearson) | `ndcg_correlation.py` | `tables/ndcg_at_k_correlations*.csv` |
 | 8. Zero-shot summary tables | `make_tables.py` | `tables/means_*.csv`, `tables/spearman_*.csv` |
 
-Steps 4–6 load the LLM and save their results after every query, so an interrupted run
-resumes where it stopped. All scripts take `--help`.
+Steps 4–6 load the LLM and save their results after every query, so an interrupted run resumes where it stopped. 
 
 ### Other context conditions
 
@@ -73,9 +70,9 @@ passed as arguments: `./run_model.sh <gguf_repo> <gguf_file> <chat_tokenizer>`.
 ## Main measures
 
 - **P(A)**: maximum BERTScore F1 of an answer against the passages judged 2 or 3
-  (Tian et al., Eq. 1). P_0: zero-shot answer; P_1: answer from the top passage only;
+  (corresponds to Eq. 1 the Tian et al. 2025 ECIR paper). P_0: zero-shot answer; P_1: answer from the top passage only;
   P_k: answer from the top-k passages.
-- **ECIR delta**: (P_k − P_0) / P_0 (Tian et al., Eq. 2).
+- **ECIR delta**: (P_k − P_0) / P_0 (corresponds to Eq. 2 the Tian et al. 2025 ECIR paper, which is why we give this notation to distinguish it from our paper's notation).
 - **Empirical gain of passages 2..k**: Δ_emp = P_k − P_1.
 - **Joint context utility**: U(C_k) = r(d_1) + G_k − γ L_k, with r the MonoT5 probability of
   relevance and G_k, L_k averages of a pairwise interaction score over the passage pairs of
