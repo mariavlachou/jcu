@@ -53,8 +53,7 @@ Steps 4–6 load the LLM and save their results after every query, so an interru
   `python build_random_runs.py`, then `./run_contexts.sh top1-rand`, then
   `python compare_contexts.py` (comparison with MonoT5 in
   `tables/top1-rand/compare_vs_monot5.csv`).
-- **Rel / NRel oracles** of Tian et al.: `python build_oracle_runs.py`, then
-  `./run_contexts.sh oracle-rel oracle-nrel`.
+
 
 ### Another LLM: Qwen3.5-4B
 
