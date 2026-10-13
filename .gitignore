@@ -222,9 +222,6 @@ __marimo__/
 # Extra environment for Qwen3.5 (see requirements-qwen.txt)
 .venv-qwen/
 
-# Paper draft (kept local, not pushed)
-paper/
-
 # Gold passages with MS MARCO passage text (regenerate with qrels_rel23.py)
 qrels/*.csv
 # Unfinished runs (Qwen3.5 in progress, stopped oracle run) and run logs
