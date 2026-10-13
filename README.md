@@ -68,8 +68,7 @@ passed as arguments: `./run_model.sh <gguf_repo> <gguf_file> <chat_tokenizer>`.
 
 ## Main measures
 
-- **P(A)**: maximum BERTScore F1 of an answer against the passages judged 2 or 3
-  (corresponds to Eq. 1 the Tian et al. 2025 ECIR paper). P_0: zero-shot answer; P_1: answer from the top passage only;
+- **P(A)**: maximum BERTScore F1 of an answer against the passages judged 2 or 3. P_0: zero-shot answer; P_1: answer from the top passage only;
   P_k: answer from the top-k passages.
 - **ECIR delta**: (P_k − P_0) / P_0 (corresponds to Eq. 2 the Tian et al. 2025 ECIR paper, which is why we give this notation to distinguish it from our paper's notation).
 - **Empirical gain of passages 2..k**: Δ_emp = P_k − P_1.
