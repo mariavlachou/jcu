@@ -1,0 +1,8 @@
+# Extra environment for Qwen3.5 (run_model.sh), created on top of the main environment:
+#   python -m venv --system-site-packages .venv-qwen
+#   CMAKE_ARGS="-DGGML_METAL=on" .venv-qwen/bin/pip install -r requirements-qwen.txt
+# Qwen3.5 needs newer versions than the main environment. They are kept separate because
+# transformers 5 changes BERTScore values, which are therefore always computed in the main
+# environment (rescore_bertscore.py).
+transformers==5.19.0
+llama-cpp-python==0.3.36

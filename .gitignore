@@ -218,3 +218,17 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Extra environment for Qwen3.5 (see requirements-qwen.txt)
+.venv-qwen/
+
+# Paper draft (kept local, not pushed)
+paper/
+
+# Gold passages with MS MARCO passage text (regenerate with qrels_rel23.py)
+qrels/*.csv
+# Unfinished runs (Qwen3.5 in progress, stopped oracle run) and run logs
+utility_results/qwen3.5-4b-q8_0/
+tables/qwen3.5-4b-q8_0/
+utility_results/oracle-rel/
+*.log

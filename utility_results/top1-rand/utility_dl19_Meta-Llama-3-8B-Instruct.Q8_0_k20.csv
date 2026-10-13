@@ -1,0 +1,274 @@
+qid,query,k,monot5_max_r,positive_synergy,redundancy_penalty,u_context,num_pairs,relevance_prob,mean_positive_synergy,mean_redundancy_penalty,u_context_norm,p_zero_shot,p_context_shot,Our_Predictive_Delta_pct,ECIR_Empirical_Delta_pct,num_gold_passages,answer_zero_shot,answer_context_shot
+1037798,who is robert gray,20,-0.0044101835228502,1401.7969460547324,615.4886723906079,1032.4993324368447,190,0.9955995270561124,0.1124153146619028,0.0403873038979576,1.083782459379241,0.8634902238845825,0.848831295967102,25.51183897643102,-1.697636813018492,7,"Robert Gray was a British explorer and naval officer who is best known for being the first European to circumnavigate the coast of Australia. He was born in 1742 and died in 1806. Gray was part of a British expedition that was sent to explore the coast of New Holland (now Australia) in the late 18th century. During his journey, he mapped much of the coastline and discovered several important landmarks, including the Great Barrier Reef. Gray's expedition was significant because it helped to establish British claims to the continent and paved the way for further European settlement.","Robert Gray was the Democratic candidate for governor of Mississippi in the 2015 elections. He won the Democratic primary on August 4, 2015, and was defeated by incumbent Governor Phil Bryant (R) in the general election on November 3, 2015. Gray is a truck driver and former firefighter. He gained national attention for admitting that he did not vote in the August 4, 2015, primary, saying, ""I was in Jackson and had to do a lot of stuff and just lost track of time, to tell you the truth."" Gray made the following statement about his primary victory: ""In 1792, Capt. Robert Gray, in the Columbia, discovered the river named after his ship and claimed the"
+104861,cost of interior concrete flooring,20,-0.0883365795016288,5431.4987003036285,79.12349265507937,5383.9362681310795,190,0.9154527022493416,0.3637010069270598,0.0059081389797149,1.2756088257885727,0.8772567510604858,0.9043390154838562,45.40883546881031,3.087153719892327,111,"The cost of interior concrete flooring can vary widely depending on several factors such as the type of concrete, finish, and installation method. Here are some general estimates:
+
+* Plain concrete: $3 to $5 per square foot
+* Stamped concrete: $5 to $10 per square foot
+* Polished concrete: $8 to $15 per square foot
+* Exposed aggregate concrete: $10 to $20 per square foot
+* Decorative concrete: $15 to $30 per square foot
+
+These estimates do not include the cost of preparation, labor, and finishing, which can add an additional $2 to $5 per square foot.
+
+It's also important to consider the cost of any additional features such as:
+
+* Color: $","According to the provided context, the cost of interior concrete flooring can range from $2.50 to $3.00 per square foot, which is consistent throughout the year."
+1063750,why did the us volunterilay enter ww1,20,-0.0046708998270332,4292.681256128752,63.645313808511744,4254.489396943817,190,0.9953399918609708,0.2656036069020003,0.0030980559648293,1.2590847651840733,0.8926047086715698,0.9056467413902284,41.0573743284328,1.4611207617388011,183,"The United States voluntarily entered World War I in 1917 after a series of events and diplomatic crises. Prior to the U.S. entry, the country had maintained a policy of neutrality, avoiding involvement in the conflict between the Allied Powers (France, Britain, and others) and the Central Powers (Germany, Austria-Hungary, and others).
+
+However, several factors contributed to the U.S. decision to enter the war. One major factor was the sinking of the passenger ship Lusitania by a German U-boat in May 1915, which killed over 1,000 civilians, including 128 Americans. This event outraged the American public and led to increased anti-German sentiment.
+
+Another significant event was the Zimmermann Telegram,","The United States entered World War I in 1917 after Germany resumed its policy of unrestricted submarine warfare and the sinking of the passenger ship Lusitania, which killed over 1,000 civilians, including 128 Americans. Additionally, the Zimmermann Telegram, in which Germany attempted to persuade Mexico to declare war on the United States, further strained relations between the two countries. The U.S. declared war on Germany on April 6, 1917, and subsequently declared war on Austria-Hungary on December 7, 1917."
+1103812,who formed the commonwealth of independent states,20,-0.011778924614191,1206.75757858802,182.99897348148505,1096.9464155745147,190,0.9882901753445076,0.0850797980360079,0.0114437610857233,1.0665037167290816,0.9043520092964172,0.8985547423362732,17.930153940700354,-0.6410409774678664,11,"The Commonwealth of Independent States (CIS) was formed on December 8, 1991, by eight former Soviet republics: Armenia, Azerbaijan, Belarus, Kazakhstan, Kyrgyzstan, Moldova, Russia, and Ukraine. The CIS was established as a loose confederation of independent states, with the goal of promoting economic and cultural cooperation among its member states.","Boris Yeltsin, president of the Russian Republic, formed the Commonwealth of Independent States (CIS) on December 8, 1991."
+1106007,define visceral?,20,-0.0028526587411761,1834.2562586617191,151.09892430213387,1743.594051421698,190,0.9971514062235328,0.1458037712830106,0.0187195304671256,1.1317234592262682,0.8800111413002014,0.9333547353744508,28.60331035743094,6.061695309383813,41,"The term ""visceral"" refers to something that is related to or located within the internal organs or viscera of the body, such as the stomach, intestines, liver, and kidneys. It can also describe the internal organs themselves, as opposed to the external or superficial structures of the body. For example, the visceral surface of the liver refers to the inner surface of the organ that faces the abdominal cavity.","Visceral refers to the viscera, the internal organs of the body, specifically those within the chest (as the heart or lungs) or abdomen (as the liver, pancreas or intestines). In a figurative sense, something visceral is felt deep down, it is a gut feeling. It can also refer to emotions that are instinctive, unreasoning, and not intellectual. Visceral pain is pain that results from the activation of nociceptors of the thoracic, pelvic, or abdominal viscera (organs). Visceral fat is the fat that surrounds the vital organs in the abdominal cavity."
+1110199,what is wifi vs bluetooth,20,-0.0316203571856021,1761.937146355644,2.0107732372468092,1760.6990620561105,190,0.9688743384473952,0.1549985062415773,0.0001568071764247,1.123778760383118,0.8705986738204956,0.8729644417762756,29.081147740735503,0.2717403583212688,28,"WiFi and Bluetooth are two different wireless technologies that serve distinct purposes.
+
+WiFi is a type of wireless networking technology that allows devices to connect to the internet or communicate with each other over a local network. It uses radio waves to transmit data between devices, and operates on a specific frequency band (typically 2.4 GHz or 5 GHz). WiFi is commonly used to connect devices to the internet, transfer files, and communicate with other devices on a network.
+
+Bluetooth, on the other hand, is a wireless personal area network (PAN) technology that allows devices to communicate with each other over short distances (typically up to 30 feet). It uses radio waves to transmit data between devices, and operates on a specific frequency band (typically 2.","WiFi and Bluetooth are two different wireless technologies used for communication. WiFi is a wireless networking technology that allows devices to connect to the internet or communicate with each other over a local network. It operates on the 2.4GHz and 5GHz frequency bands and is commonly used for internet access, file sharing, and online gaming.
+
+Bluetooth, on the other hand, is a wireless personal area network (PAN) technology that allows devices to communicate with each other over short distances, typically within a range of 30 feet. It operates on the 2.4GHz frequency band and is commonly used for wireless headsets, file transfer, and device pairing.
+
+The main differences between WiFi and Bluetooth are their range, speed, and use cases. WiFi"
+1112341,what is the daily life of thai people,20,-0.0031430153176188,2078.9741056207663,29.64847239320457,2061.181879169526,190,0.9968619187843516,0.1793286059324708,0.002791164919147,1.1745158257653343,0.8370035886764526,0.8819907903671265,40.32386977248057,5.374791972136194,119,"The daily life of Thai people is deeply rooted in their culture and traditions. A typical day for a Thai person starts early in the morning, around 5:00-6:00 am, with a traditional Thai breakfast consisting of steamed rice, stir-fried vegetables, and sometimes fish or meat. Many Thais also start their day with a visit to the local temple to pay respects to the Buddha and participate in morning chanting and meditation.
+
+After breakfast, many Thais head to work or school, with the majority of the population working in the service industry, agriculture, or small businesses. The workday typically starts around 8:00-9:00 am and ends around 5:00-6:00 pm, with a one","The daily life of Thai people is characterized by a strong emphasis on Buddhist traditions and culture. They are taught to keep their temper and show patience in all situations, known as ""ใจเย็น"" or JAI YEN. Thai people also value the concept of SANUK, which means having fun and enjoying each other's company. They often spend time with friends and family, eating together, chatting, and going out.
+
+In terms of work, the average Thai salary is around $3000USD per year, with construction workers making an average of $4.00 a day and working 6 days a week. More skilled positions can earn higher wages. However, many people work overtime and live together to share costs due to the country's daily minimum"
+1113437,what is physical description of spruce,20,-0.0338936746120452,1298.1022907793915,119.16077257152286,1226.5719335618658,190,0.966674281191505,0.0810004107434952,0.0077020817299993,1.0430534428970006,0.8588358163833618,0.8782466053962708,21.44969073243784,2.260128029435194,25,"Spruce trees are typically evergreen conifers that can grow to varying heights, ranging from 30 to 150 feet (9 to 46 meters) tall. They have a conical shape, with a straight trunk and branches that are often horizontal or slightly drooping. The bark is usually grayish-brown and is often covered in resin blisters. The needles are long and slender, typically 1-2 inches (2.5-5 cm) long, and are attached to the twig by a small stalk. They are usually a bright green color on top and have two white bands of stomata on the underside. The cones are cylindrical or egg-shaped, typically 2-6 inches (5-15 cm) long, and","Spruce trees are large, with some species maturing up to 200 feet tall. They have a strongly conical shape, especially when they are young. Spruce trees are coniferous (needle-leafed) evergreens. They have needle-like leaves and light-coloured wood. The bark is thin and flaky, and the cones have papery thin scales. The needles are generally stiff and sharp, about 1 inch long, and each spruce needle springs from a tiny, woody peg."
+1114646,what is famvir prescribed for,20,-0.0272488873451948,922.080378055793,75.08330102820251,877.0031485515262,190,0.9731190143739048,0.0645711296300977,0.005550564273009,1.0343598054401972,0.8784459829330444,0.9359593391418456,17.748822982441325,6.547170494965422,12,"Famvir (famciclovir) is an antiviral medication prescribed to treat and manage various herpes virus infections, including:
+
+* Cold sores (herpes labialis)
+* Genital herpes (herpes simplex virus type 1 and 2)
+* Shingles (herpes zoster)
+* Chickenpox (varicella zoster)
+
+It is also used to prevent recurrent episodes of genital herpes and to treat herpes zoster in immunocompromised patients.","Famvir (Famciclovir) is a prescription antiviral medication used to treat the following conditions:
+
+* Herpes simplex infections (including cold sores and genital herpes) in people with HIV or other conditions that weaken the immune system.
+* Shingles in people with normal immune systems.
+* Recurring genital herpes in people with normal immune systems.
+* Recurring cold sores in people with normal immune systems."
+1114819,what is durable medical equipment consist of,20,-0.0030121691524982,4738.666547114645,58.41610531541281,4703.613871756245,190,0.996992362877448,0.375385116951087,0.0044174568858088,1.3697270056970496,0.8567713499069214,0.877907395362854,59.870776006440366,2.46694120411809,213,"Durable medical equipment (DME) is medical equipment that is designed to withstand repeated use, is primarily used to serve a medical purpose, and is not typically useful to a person in the absence of an illness or injury. Examples of DME include:
+
+* Wheelchairs and scooters
+* Oxygen tanks and concentrators
+* Hospital beds and mattresses
+* Lift chairs and transfer benches
+* Commodes and toilet seats
+* Shower chairs and benches
+* Crutches and walkers
+* Canes and crutches
+* Nebulizers and inhalers
+* Insulin pumps and glucose monitors
+* Continuous positive airway pressure (CPAP) machines
+* Portable defibrillators
+* Surgical equipment such as surgical lights and tables","According to the provided context, durable medical equipment (DME) consists of items which:
+
+1. are primarily and customarily used to serve a medical purpose;
+2. are not useful to a person in the absence of illness, disability, or injury;
+3. are ordered or prescribed by a physician;
+4. are reusable;
+5. can stand repeated use;
+6. are appropriate for use in the home.
+
+Examples of DME include:
+
+* Air fluidized beds
+* Canes
+* Commode chairs
+* Crutches
+* Infusion pumps
+* Patient lifts
+* Suction pumps
+* Traction equipment
+* Wheelchairs
+* Hospital beds
+* Home oxygen equipment
+* Power chairs
+* Nebulizers"
+1115776,what is an aml surveillance analyst,20,-0.0034703526180237,1306.2452864432812,288.55305031313605,1133.1099859027815,190,0.9965356620958852,0.1235321107591079,0.0226108539276736,1.106501260498389,0.876307487487793,0.937123477458954,26.268607343584144,6.940028567541831,4,"An AML (Anti-Money Laundering) Surveillance Analyst is a professional responsible for monitoring and analyzing financial transactions to detect and prevent money laundering and other financial crimes. They use specialized software and techniques to identify suspicious activity and report it to regulatory bodies or law enforcement agencies.
+
+AML Surveillance Analysts typically work in financial institutions, such as banks, credit unions, or investment firms, and are responsible for:
+
+* Reviewing and analyzing large volumes of financial data to identify unusual patterns or transactions
+* Conducting research and investigations to verify the legitimacy of transactions
+* Identifying and reporting suspicious activity to regulatory bodies or law enforcement agencies
+* Collaborating with other teams, such as compliance and risk management, to ensure effective AML/CFT (Anti-M","Based on the given context, an AML Surveillance Analyst is not explicitly defined. However, based on the job descriptions and responsibilities mentioned in the context, an AML Surveillance Analyst is likely responsible for detecting and monitoring suspicious transactions in an effort to prevent money laundering, similar to an AML Analyst. They may be responsible for implementing anti-money laundering procedures, assessing daily financial activity, and preparing regular reports to AML Compliance Officers."
+1117099,what is a active margin,20,-0.0067383204586803,2218.1006439581884,20.1366838556511,2206.011895324339,190,0.9932843311162084,0.1667631249368849,0.001835772046421,1.1589459928252408,0.901647686958313,0.9106301069259644,28.536457153782266,0.9962228149171376,83,"An active margin is a type of coastline where the tectonic plates are moving apart or colliding, resulting in geological activity such as earthquakes, volcanic eruptions, and the formation of new land. This type of margin is characterized by the presence of volcanoes, fault lines, and the creation of new oceanic crust through the process of seafloor spreading. Examples of active margins include the west coast of South America, the east coast of Asia, and the Mid-Atlantic Ridge.","An active continental margin is a tectonic plate boundary where an oceanic plate is being subducted beneath a continental plate, resulting in volcanic and earthquake activity. It is characterized by a narrow continental shelf, a steep continental slope, and a deep trench. Examples of active continental margins include the west coast of South America and the Pacific coast of North America."
+1121402,what can contour plowing reduce,20,-0.0033305196557193,2596.841937070988,23.770107599169663,2582.5765419918307,190,0.9966750203727712,0.2211009145269959,0.0020889619992106,1.216522557700241,0.8938696980476379,0.8638693690299988,36.09618497610237,-3.3562306769280728,23,"Contour plowing can reduce soil erosion, runoff, and sedimentation. It involves plowing the soil across the slope, rather than up and down, to slow down the water flow and reduce the amount of soil that is washed or blown away. This technique is particularly effective in areas with heavy rainfall or steep slopes.",Soil erosion.
+1121709,what are the three percenters?,20,-5.212706565856934,1062.9673703915278,308.4477923317297,872.685988426633,190,0.0054469112948221,0.0722898629190588,0.0213711283478275,0.0649140972051844,0.8707112073898315,0.8286827206611633,-92.5447040701612,-4.826914638512442,3,"The Three Percenters are a far-right militia movement in the United States that was founded in 2008. The group's name refers to the idea that only 3% of American colonists fought in the American Revolutionary War, and the group sees itself as a modern-day equivalent of those patriots.
+
+The Three Percenters are known for their anti-government and anti-establishment views, and they often express support for gun rights, states' rights, and limited government intervention. They have been involved in various protests and demonstrations, including the 2014 Bundy standoff in Nevada and the 2016 Dakota Access Pipeline protests.
+
+The group's ideology is often characterized as a mix of libertarianism, conservatism, and anti-federalism, and they have been","Based on the given context, the three percenters are:
+
+1. 1 percent of what they READ.
+2. 20 percent of what they HEAR.
+3. 30 percent of what they SEE."
+1124210,tracheids are part of _____.,20,-0.1593427807092666,2714.1390485922993,7.515518771999751,2709.4703945483902,190,0.852704018379422,0.1306309792871312,0.0004125798801706,0.9830874497384507,0.8894806504249573,0.8152932524681091,10.52375892255465,-8.34052971488525,120,Tracheids are part of the xylem tissue in plants.,Xylem
+1129237,hydrogen is a liquid below what temperature,20,-0.0065685077570378,1646.1566934353878,62.196862945312105,1608.8320071604437,190,0.9934530177341342,0.1055853673849884,0.0053640992115702,1.0958199255921803,0.8528033494949341,0.8645431399345398,28.496203285455064,1.3766116709741478,17,-272.2°F (-172°C),Hydrogen is a liquid below -253 degrees C.
+1133167,how is the weather in jamaica,20,-0.0070521729066967,3724.593201818308,41.88756229841947,3699.4536122663494,190,0.9929726353131152,0.2327457330228609,0.0045653043158524,1.2229791857464645,0.8786282539367676,0.8975780606269836,39.19188010023621,2.1567490693942366,219,"Jamaica has a tropical climate, with warm temperatures and high humidity throughout the year. The weather is characterized by two main seasons: the wet season, which runs from May to October, and the dry season, which runs from December to April. The wet season is marked by frequent rainfall and thunderstorms, while the dry season is generally sunny and dry.
+
+The average temperature in Jamaica ranges from 70°F (21°C) to 90°F (32°C), with the warmest months being July and August. The coastal areas tend to be cooler than the inland regions, due to the ocean breeze.
+
+It's worth noting that Jamaica is also prone to hurricanes, which can occur between June and November. However, the country is generally not directly","The weather in Jamaica is always vacation friendly, with average temperatures ranging between 80°F and 90°F (27°C-29°C). The island has a tropical climate with hot and humid weather at sea level, and a more temperate climate in the higher inland regions. The weather is perfect most of the year, with sunny weather and minimal rainfall. The coolest times in Jamaica are the winter months of December to February, with average temperatures ranging from 75°F to 84°F (24°C-29°C). The summer months of June to August are the hottest, with average temperatures ranging from 77°F to 88°F (25°C-31°C)."
+130510,definition declaratory judgment,20,-0.0040496732108294,852.6084266849493,159.72886045600666,756.7670607381345,190,0.9959585156579176,0.0893160416230774,0.0131291435557315,1.077397071147556,0.8878511786460876,0.9195249676704408,21.34883605048685,3.567466010762456,14,"A declaratory judgment is a type of legal judgment that declares the rights and other legal relations between parties in a lawsuit. It is a judicial declaration that sets forth the legal consequences of a particular set of facts, without awarding any monetary damages or other relief. In other words, it is a judgment that declares what the law is and how it applies to the parties in a particular case, without necessarily requiring any action to be taken. For example, a declaratory judgment might declare that a particular contract is invalid, or that a particular party has a certain right or obligation. Declaratory judgments are often used to clarify the legal status of a particular situation, and can be an important tool for resolving disputes and clarifying the law.","A declaratory judgment is a ruling of a court in a civil case that declares the rights, duties, or obligations of each party in a dispute, but does not necessarily award any damages or other relief. It is a court decision that tells the parties what their rights and responsibilities are, without awarding damages or ordering them to do anything. The court's opinion is authoritative and conclusive, and the parties involved may not later seek another court resolution of the same legal issue unless they appeal the judgment."
+131843,definition of a sigmet,20,-0.0026122753042727,2448.926082115945,101.95326879029516,2387.7515085664636,190,0.9973911337177792,0.1973252827235022,0.007492178701629,1.190221109220304,0.8614245057106018,0.945357620716095,38.168940090515896,9.743525340767444,19,"A Sigmets (Significant Meteorological Airmass Characteristic) is a type of weather advisory issued by the International Civil Aviation Organization (ICAO) and used by pilots and meteorologists to alert them to significant weather phenomena that may affect aircraft operations. A Sigmets is typically issued when a significant weather phenomenon, such as a strong jet stream, a strong low-level wind shear, or a severe thunderstorm, is expected to occur within a specific area and time frame. The purpose of a Sigmets is to provide pilots with timely and accurate information about the location and intensity of significant weather phenomena, allowing them to take necessary precautions to ensure safe flight operations.","A SIGMET is a notice of significant hazardous weather conditions (such as extreme turbulence, icing, or poor visibility) in a large area that is provided to the pilot of an aircraft before takeoff."
+146187,difference between a mcdouble and a double cheeseburger,20,-0.0019092203583568,1128.3693871049006,96.168255254798,1070.6665247316637,190,0.9980926010434948,0.0858963634660238,0.0076619551935369,1.0793917913933966,0.8844798803329468,0.9078698754310608,22.036895965013777,2.6444914823058796,8,"A McDouble from McDonald's consists of two patties, two slices of cheese, pickles, and onions on a bun. A Double Cheeseburger from McDonald's also consists of two patties, but it has three slices of cheese, lettuce, cheese, onions, pickles, and a middle bun.
+
+The main difference is that a McDouble has two slices of cheese, while a Double Cheeseburger has three slices of cheese. Additionally, the Double Cheeseburger has lettuce and a middle bun, which the McDouble does not have.","According to the context, the main difference between a McDouble and a Double Cheeseburger is the amount of cheese. A McDouble has one slice of American cheese, while a Double Cheeseburger has two slices of American cheese. Additionally, the Double Cheeseburger tastes more like beef, whereas the McDouble has a different flavor due to the use of meat filler."
+148538,difference between rn and bsn,20,-0.0047002071514725,3025.815636190724,24.46173805872081,3011.13389314834,190,0.995310821536356,0.1698426334188348,0.0021732546153153,1.1638495021860018,0.8708547353744507,0.893791139125824,33.644505209651186,2.6337806777281956,32,"The difference between a Registered Nurse (RN) and a Bachelor of Science in Nursing (BSN) is not exactly the same thing, but rather a distinction between the educational pathway and the degree earned.
+
+A Registered Nurse (RN) is a professional nurse who has completed an approved nursing education program, such as a diploma, associate's degree in nursing (ADN), or a hospital-based program. RNs are eligible to take the National Council Licensure Examination (NCLEX-RN) to become licensed to practice nursing in their state.
+
+A Bachelor of Science in Nursing (BSN) is a four-year undergraduate degree that prepares students for a career as a professional nurse. BSN programs are designed to provide students with a comprehensive education in nursing theory","The main difference between an RN (Registered Nurse) and a BSN (Bachelor of Science in Nursing) is that an RN is a title for a registered nurse, while a BSN is a degree that prepares you for a job as a registered nurse. A BSN is a four-year degree that typically requires more credits and time to complete compared to an ADN (Associate Degree in Nursing), which is a two-year degree. While both degrees lead to becoming a registered nurse, a BSN holder may have more opportunities for advancement and higher salaries."
+156493,do goldfish grow,20,-0.0071426043286919,2451.7255385323783,11.300469264474572,2444.938114369365,190,0.9928828434457658,0.1891050390742797,0.0009548941222887,1.1814149460466723,0.8965774774551392,0.8903557062149048,31.76942046325106,-0.6939468586579217,117,"Yes, goldfish can grow, but their growth rate and maximum size depend on various factors such as water quality, diet, and living conditions. In ideal conditions, goldfish can grow up to 6-8 inches (15-20 cm) in length and live for 5-10 years. However, some goldfish have been known to grow up to 12 inches (30 cm) or more in length and live for 15-20 years or more with proper care.","Goldfish do grow, but their growth rate and size are influenced by various factors such as their genetics, diet, water quality, and environment. They can grow to different sizes depending on the breed, with some fancy goldfish varieties growing up to 6-7 inches, while common and comet goldfish can grow up to 12 inches or more. Proper care, including a suitable environment and a balanced diet, is essential for goldfish to grow and thrive."
+168216,does legionella pneumophila cause pneumonia,20,-0.0091348811984062,1889.305911119021,94.36493625983212,1832.6778144819232,190,0.9909067150734884,0.1097443367590036,0.0068426963785374,1.0965454340053695,0.8938578367233276,0.9281401634216307,22.675596605501287,3.835322048970803,200,"Yes, Legionella pneumophila is a type of bacteria that is known to cause a severe form of pneumonia called Legionnaires' disease. It is typically spread through inhalation of contaminated water droplets, and can cause symptoms such as fever, chills, and cough. In severe cases, it can lead to respiratory failure and even death.","Yes, Legionella pneumophila is the bacterial type that causes the pneumonia known as Legionnaires' disease."
+182539,example of monotonic function,20,-0.0036360598169267,755.8873825614974,292.50361560921294,580.3815771361527,190,0.9963705426438312,0.0621242223187322,0.0248281403169932,1.0435978807723674,0.8615567088127136,0.8623669147491455,21.12933137164232,0.0940397687284457,9,"A monotonic function is a function that either increases or decreases throughout its domain. A classic example of a monotonic function is the absolute value function, |x|. This function is always increasing, meaning that as x increases, |x| also increases.
+
+For example, as x goes from -5 to 5, |x| goes from 5 to 5. This is because the absolute value of a number is always positive or zero, and it never decreases.","A monotonic function is a function that is either entirely nonincreasing or nondecreasing. A function is monotonic if its first derivative (which need not be continuous) does not change sign.
+
+Examples of monotonic functions include:
+
+* f(x) = x^3: This function is increasing on its entire domain.
+* f(x) = x^2: This function is nondecreasing on its entire domain.
+* f(x) = 2x - 13: This function is increasing on its entire domain.
+* f(x) = ln(x): This function is increasing on its entire domain."
+183378,exons definition biology,20,-0.0093324845656752,3993.4642753556454,22.832563603553325,3979.755404708948,190,0.9907109279146784,0.2245649608848816,0.0011339208757233,1.214595536274126,0.8897092342376709,0.9490578770637512,36.51600877390324,6.6705661290491145,175,"Exons are segments of DNA or RNA that are included in the final, mature form of a gene's transcript. They are the parts of the gene that are actually translated into protein, as opposed to introns, which are the non-coding regions of the gene that are removed during the process of splicing. Exons can vary in size and number, and they can be located at different positions within a gene. In general, exons are the functional regions of a gene that contain the information necessary for the production of a specific protein.","An exon is a polynucleotide sequence in a nucleic acid that codes information for protein synthesis and that is copied and spliced together with other such sequences to form messenger RNA. It is a part of a gene that codes for a part of the final mature RNA product of that gene after introns have been removed by RNA splicing. The term exon refers to both the DNA sequence within a gene and to the corresponding sequence in RNA transcripts. In RNA splicing, introns are removed and exons are covalently joined to one another as part of generating the mature messenger RNA."
+19335,anthropological definition of environment,20,-0.0107261789962649,1927.6748508861535,48.92916839089203,1898.3066236726224,190,0.9893311413358942,0.1570919809149822,0.0030634348763101,1.14458506132509,0.8595061898231506,0.9497255682945251,33.16775084081668,10.496652559295445,7,"The anthropological definition of environment refers to the complex and dynamic interplay between human societies and their physical, social, and cultural surroundings. It encompasses not only the natural environment, such as climate, geography, and ecosystems, but also the social and cultural environment, including institutions, social norms, and cultural practices. This definition recognizes that humans are an integral part of the environment, and that our actions and behaviors have a profound impact on the world around us.","According to the context, ecological anthropology is defined as the study of cultural adaptations to environments, and the sub-field is also defined as the study of relationships between a population of humans and their biophysical environment. Ecological anthropologists explore the idea that humans as ecological populations should be the unit of analysis, and culture becomes the means by which that population alters and adapts to the environment."
+207786,how are some sharks warm blooded,20,-0.0140704764053225,1095.7530231352148,109.12356779441276,1030.2648119821615,190,0.9860280501015232,0.0857982806957745,0.0060984600082519,1.0681672547923464,0.8665859699249268,0.903565227985382,23.261544943415466,4.267234797680705,11,"Some sharks, such as the great white shark, the mako shark, and the porbeagle shark, are capable of regulating their body temperature to some extent, a process known as endothermy. This means that they can generate heat internally, rather than relying solely on the warmth of the surrounding water. This is achieved through a network of blood vessels near the surface of their skin, which helps to conserve heat and maintain a stable body temperature.
+
+In addition, some sharks have a unique physiological adaptation called ""countercurrent heat exchange"", which allows them to conserve heat in their bodies. This is achieved through a network of blood vessels that run parallel to each other, but in opposite directions. This allows the warm blood flowing from the shark's core","Some sharks, such as the Great White Shark, Mako, and Lamnid sharks, are warm-blooded, meaning they are able to maintain a constant body temperature, even in cold water. This is achieved through a heat-conserving mechanism called the rete mirabile (wonderful net), a structure that warms blood passing over the gills. This allows them to swim in colder waters in addition to warm, tropical waters."
+264014,how long is life cycle of flea,20,-0.0051707820966839,2176.254334237385,42.0784828195404,2151.002073763564,190,0.9948425633849612,0.152198081746417,0.0025302069917907,1.1455225209363038,0.8986639380455017,0.9633772969245912,27.46951028520107,7.201063282881254,152,"The life cycle of a flea typically consists of four stages: egg, larva, pupa, and adult. The entire life cycle can take anywhere from 2-3 weeks to several months to complete, depending on factors such as temperature, humidity, and the availability of food.
+
+Fleas lay eggs that hatch into larvae within 2-3 days. The larvae then feed on flea dirt (flea feces) and other organic matter for about 5-7 days before spinning a cocoon and entering the pupal stage.
+
+The pupal stage can last anywhere from a few days to several weeks, during which time the flea is in a state of dormancy. When the adult flea emerges from the cocoon, it will begin","The life cycle of a flea can last anywhere from 20 days to an entire year, depending on how long the flea remains in the dormant stage (eggs, larvae, pupa)."
+359349,how to find the midsegment of a trapezoid,20,-0.0038221655413508,2994.67001561118,60.43632858928524,2958.404396292068,190,0.996185129635944,0.1776952687630569,0.0039115874960261,1.171533445901385,0.9012038111686708,0.889674961566925,29.99650371897053,-1.2792721756020011,25,"To find the midsegment of a trapezoid, you can use the following steps:
+
+1. Draw the midsegment of the trapezoid, which is the line that passes through the midpoints of the two bases of the trapezoid.
+2. The midsegment is parallel to the bases of the trapezoid.
+3. The length of the midsegment is equal to the average of the lengths of the two bases.
+
+For example, if the lengths of the two bases are 6 cm and 8 cm, the length of the midsegment would be (6 + 8) / 2 = 7 cm.","To find the midsegment of a trapezoid, you can follow these steps:
+
+1. Calculate the lengths of the bases: 35-16 = 9 (length of upper base) and 45-0 = 45 (length of lower base).
+2. Calculate the sum of the bases: 9+45 = 54.
+3. The length of the midsegment is equal to half the sum of the lengths of its bases, which is 54/2 = 27.
+
+So, the length of the midsegment is 27."
+405717,is cdg airport in main paris,20,-0.0021954500116407,1926.7164053968636,44.54061216811151,1899.989842645985,190,0.9978069582260252,0.1405571037964218,0.002267490005878,1.1370035680189203,0.8705241084098816,0.8773002624511719,30.611381928961844,0.778399354575918,7,"CDG Airport, also known as Charles de Gaulle Airport, is located approximately 16 miles (25.7 kilometers) northeast of central Paris, France. While it is not directly in the city center, it is still easily accessible by car, taxi, or public transportation, such as the RER B train or bus. Many tourists and travelers choose to stay in Paris and commute to the airport for their flights.","Yes, CDG airport is located in the city of Paris."
+443396,lps laws definition,20,-0.0070570260286331,1184.2495810913863,409.25158161704735,938.6915750951292,190,0.9929678163075302,0.0956627785602123,0.0417372765725248,1.0635882289242278,0.8411973118782043,0.9118800163269044,26.43742602427896,8.402630803810032,63,"The Individuals with Disabilities Education Act (IDEA) is a federal law that ensures that children with disabilities receive a free and appropriate public education (FAPE). It was first enacted in 1975 and has been amended several times since then. The law requires that schools provide special education and related services to eligible children, and that these services be tailored to meet the unique needs of each child.
+
+IDEA defines a child with a disability as a child who:
+
+* Has a physical or mental impairment that substantially limits one or more major life activities
+* Has a record of such an impairment
+* Is regarded as having such an impairment
+
+The law also requires that schools provide a comprehensive evaluation of a child's needs, and that parents be involved in the development","The Lanterman-Petris-Short (LPS) Act is a California law that provides for the protection and treatment of persons judged to be gravely disabled and unable to provide for their own basic needs, such as food, clothing, and shelter. It is named after the sponsors of the legislation, Senator Alan Lanterman, Assemblyman Vance Petris, and Assemblyman Richard Short. The LPS Act allows for the involuntary detention and treatment of individuals who are deemed to be a danger to themselves or others due to their mental illness or substance abuse. The law is designed to provide a balance between protecting the individual's rights and ensuring public safety."
+451602,medicare's definition of mechanical ventilation,20,-0.0106364246457815,1622.8930690276954,93.45538635712406,1566.8092007887751,190,0.9894199420949654,0.1391722020819551,0.0071661694584924,1.1242924425018253,0.8707214593887329,0.8907537460327148,29.12194024609261,2.300653834585066,100,"Mechanical ventilation is defined by Medicare as ""the use of a machine to assist or control a patient's breathing, including, but not limited to, the use of a ventilator, respirator, or breathing machine."" This definition includes both invasive and non-invasive ventilation, and is used to determine coverage and reimbursement for ventilator services under Medicare.","According to the context, Medicare's definition of mechanical ventilation is not explicitly stated. However, it can be inferred that mechanical ventilation refers to the use of a machine called a ventilator or respirator to improve the exchange of air between the lungs and the atmosphere, as mentioned in [1]. Additionally, [15] mentions that ventilators are covered by Medicare for the treatment of neuromuscular diseases, and [20] defines ventilators as medical devices that provide mechanical ventilation to assist with or replace patients' spontaneous breathing."
+47923,axon terminals or synaptic knob definition,20,-0.0039759408682584,2330.036114656633,39.92447966649537,2306.0774509158673,190,0.9960319527196906,0.2206907196924768,0.0031444947895183,1.2148359755384563,0.8773378133773804,0.8951878547668457,38.4684390681681,2.034568796339714,41,"The axon terminal, also known as the synaptic knob, is the terminal end of an axon that releases neurotransmitters into the synapse, the small gap between the axon terminal and the dendrite of another neuron. The axon terminal is specialized to release neurotransmitters into the synapse, where they can bind to receptors on the postsynaptic neuron, transmitting the signal across the synapse. The axon terminal is characterized by the presence of synaptic vesicles, which contain the neurotransmitters, and the active zone, where the neurotransmitters are released into the synapse.","The axon terminal, also referred to as the synaptic knob, is the button-like ending of an axon that makes synaptic contacts with other nerve cells or with effector cells. It is the site of synthesis, packaging, storage, and release of neurotransmitter molecules. The axon terminal is responsible for converting the action potential into a chemical message, which is then released into the synapse and interacts with the recipient neuron or effector."
+489204,right pelvic pain causes,20,-0.0960058197379112,3633.0088035622102,1.839923882687316,3631.80884341286,190,0.9084587290616154,0.2475617858849348,0.0001308622960659,1.1559419975689107,0.8235501050949097,0.8379427194595337,40.360858485434186,1.7476306876271182,24,"Right pelvic pain can be caused by a variety of factors, including:
+
+* Ectopic pregnancy
+* Ovarian cysts or torsion
+* Endometriosis
+* Pelvic inflammatory disease (PID)
+* Appendicitis
+* Diverticulitis
+* Irritable bowel syndrome (IBS)
+* Kidney stones
+* Ureteral stones
+* Cystitis
+* Uterine fibroids
+* Adenomyosis
+* Pelvic congestion syndrome
+* Endometrial cancer
+* Ovarian cancer
+* Uterine cancer
+* Cervical cancer
+* Rectal cancer
+* Prostate cancer
+* Testicular cancer","According to the provided context, right pelvic pain can be caused by various factors, including:
+
+* Abnormal function of organs in the pelvic region
+* Appendicitis
+* Colon cancer
+* Chronic constipation
+* Crohn's disease
+* Diverticulitis
+* Endometriosis
+* Irritation of nerves in the pelvis
+* Muscle spasms or strains
+* Pelvic inflammatory disease (PID)
+* Tension in the pelvic floor muscles
+* Trauma to the abdominal wall or muscle strain"
+490595,rsa definition key,20,-0.0155188580974936,1512.1481019169937,198.29790786602305,1393.1538383392822,190,0.9846009388761584,0.1127724140555597,0.0150469754841526,1.0883451676412266,0.8715585470199585,0.8805199861526489,24.8734432543295,1.0282085080034462,24,"The RSA algorithm is a widely used public-key encryption algorithm. It is an asymmetric encryption algorithm, meaning that it uses a pair of keys: a public key and a private key. The public key is used to encrypt the data, while the private key is used to decrypt it.
+
+The RSA algorithm is based on the principle of prime numbers and modular arithmetic. It works by first generating two large prime numbers, p and q, and then calculating their product, n. The public key is then calculated as the pair (e, n), where e is a number that is relatively prime to (p-1)(q-1).
+
+To encrypt a message, the sender uses the public key (e, n) to convert the message into a ciphertext.","RSA key is a private key based on the RSA algorithm, used for authentication and a symmetric key exchange during the establishment of an SSL/TLS session. It is a part of the public key infrastructure that is generally used in case of SSL certificates."
+527433,types of dysarthria from cerebral palsy,20,-0.0016077938489615,2585.178564538487,7.766879605213205,2580.51682898151,190,0.9983934979591558,0.1730387108461714,0.0005827080364902,1.171082583983433,0.8820762634277344,0.977428674697876,32.764323510149175,10.8099962807755,34,"Dysarthria in cerebral palsy is a type of speech disorder that results from weakness, spasticity, or incoordination of the muscles used in speech production. There are several types of dysarthria that can occur in individuals with cerebral palsy, including:
+
+1. Spastic dysarthria: This type of dysarthria is characterized by stiffness and increased muscle tone, which can lead to slow and labored speech.
+2. Flaccid dysarthria: This type of dysarthria is characterized by weakness and decreased muscle tone, which can lead to soft and indistinct speech.
+3. Ataxic dysarthria: This type of dysarthria is characterized by incoordination and lack of precision in the","According to the provided context, there are three major types of dysarthria in cerebral palsy: spastic, dyskinetic (athetosis), and ataxic. Speech impairments in spastic dysarthria involve four major abnormalities of voluntary movement: spasticity, weakness, limited range of motion, and slowness of movement."
+573724,what are the social determinants of health,20,-0.0038710911758244,870.7933900454384,266.42718262851076,710.9332093771561,190,0.9961363918386968,0.0785112003141636,0.0271295740620131,1.0583698477156525,0.8772632479667664,0.9358155131340028,20.64449869165692,6.674423589833833,13,"The social determinants of health (SDoH) refer to the conditions in which people are born, grow, live, work, and age that affect their health. These determinants are shaped by a complex interplay of factors, including:
+
+1. Socioeconomic status (SES): Income, education, occupation, and social class can all impact health outcomes.
+2. Education: Access to quality education and literacy rates can influence health literacy and health behaviors.
+3. Employment and working conditions: Job security, working hours, and job satisfaction can all impact health.
+4. Housing and living conditions: Access to safe and affordable housing, as well as living conditions such as crowding and noise, can affect health.
+5. Food security and nutrition:","The social determinants of health are the circumstances in which people are born, grow up, live, work and age, and the systems put in place to deal with illness. These circumstances are shaped by a wider set of forces: economics, social policies, and politics. The social determinants of health are economic and social conditions that influence the health of people and communities. They are shaped by the amount of money, power, and resources that people have, all of which are influenced by policy choices. Examples of social determinants include: Availability of resources to meet daily needs, such as educational and job opportunities, living wages, or healthful foods. The social determinants of health are linked to the economic and social conditions and their distribution among the population"
+833860,what is the most popular food in switzerland,20,-0.0024703005328774,4916.04362138664,0.0,4916.041151086107,190,0.9975327481485808,0.2549824516207658,0.0,1.2525151997693469,0.8874321579933167,0.8917941451072693,41.13926213825344,0.4915290791147425,42,"The most popular food in Switzerland is fondue! Fondue is a traditional Swiss dish made from melted cheese, wine, and seasonings, served with bread or vegetables for dipping. It's a staple of Swiss cuisine and is often enjoyed as a social activity, with friends and family gathering around the table to share a pot of fondue.","Switzerland is known for its cheese, chocolate, and pasta, but the most popular food in Switzerland is fondue. Fondue is a traditional Swiss dish made of melted cheese served with bread or vegetables. It is a popular dish in Switzerland and is often served at social gatherings and parties."
+855410,what is theraderm used for,20,-0.0320700071752071,101.06425881368,0.0,101.0321888065048,10,0.9684387820424888,0.1836420921914905,0.0,1.1520808742339794,0.8627656698226929,0.8978263735771179,33.5334627385839,4.063757400271893,3,"Theraderm is a topical cream used to treat various skin conditions, including acne, rosacea, and eczema. It is a gentle and non-comedogenic cream that helps to reduce inflammation, soothe the skin, and promote healing. It is also used to treat minor burns and wounds, as well as to reduce the appearance of fine lines and wrinkles. Additionally, Theraderm can be used to treat skin conditions such as psoriasis, dermatitis, and keratosis pilaris.","According to the context, Theraderm is used for a variety of skin care purposes, including reducing fine lines, taking care of rough skin, and addressing sun damage. It is also used to boost the natural moisture barrier and draw moisture to the application site due to its main ingredient, lanolin. Additionally, it is part of a 5-product system called the Theraderm Skin Renewal System, which is designed to produce younger-looking skin."
+87181,causes of left ventricular hypertrophy,20,-0.014617845416069,1546.077900908317,91.54041074920404,1491.1390366133785,190,0.9854884765895524,0.1291529801519809,0.0095102132780779,1.1089353287746864,0.8739194273948669,0.878964900970459,26.89217037781117,0.577338530009852,31,"Left ventricular hypertrophy (LVH) is a condition where the left ventricle of the heart becomes thickened and enlarged due to increased workload. The causes of LVH can be broadly classified into two categories: primary and secondary.
+
+Primary causes of LVH include:
+
+* Hypertrophic cardiomyopathy: a genetic disorder that causes the heart muscle to thicken and become stiff
+* Familial hypertrophic cardiomyopathy: a rare genetic disorder that causes the heart muscle to thicken and become stiff
+* Cardiac sarcoidosis: a condition where the immune system attacks the heart muscle, leading to inflammation and scarring
+
+Secondary causes of LVH include:
+
+* Hypertension: high blood pressure can cause the heart to work harder","According to the context, the causes of left ventricular hypertrophy are:
+
+1. High blood pressure (hypertension)
+2. Aortic valve stenosis
+3. Chronic hypertension
+4. Aortic insufficiency
+5. Hypertrophic obstructive cardiomyopathy (HCM)
+6. Ischemic heart disease
+7. Amyloidosis"
+87452,causes of military suicide,20,-0.0067836698144674,2817.529742470896,64.72641992478887,2778.6871068462083,190,0.9932392873330398,0.1937257280379942,0.0053570513264017,1.183750784575193,0.861946702003479,0.9268359541893004,37.33456857874433,7.528220948580139,31,"Military suicide is a complex issue with multiple contributing factors. Some of the most common causes include:
+
+* Post-traumatic stress disorder (PTSD): Many service members who have experienced traumatic events, such as combat or sexual assault, may develop PTSD, which can increase their risk of suicide.
+* Depression: Depression is a common mental health condition that can affect anyone, including service members. It can be triggered by a variety of factors, including stress, trauma, and social isolation.
+* Traumatic brain injury (TBI): TBI can occur as a result of explosions, falls, or other injuries, and can increase the risk of suicide.
+* Substance abuse: Substance abuse is a common problem among service members, and can increase the risk of suicide.","According to the provided context, the causes of military suicide are not explicitly stated. However, it is mentioned that substance use is involved in many of these suicides, with 29 percent of active duty Army suicides from fiscal year 2005 to FY 2009 involving alcohol or drug use. Additionally, the study found that the suicide rate for troops who left the military before completing a four-year enlistment was nearly twice that of troops who stayed, and the rate for troops who were involuntarily discharged under less-than-honorable conditions for disciplinary infractions was nearly three times higher.
+
+It is also mentioned that the study found no connection between suicide and deployment overseas in support of the wars in Iraq and Afghanistan. However, it is noted that being deployed"
+915593,what types of food can you cook sous vide,20,-0.002079231198877,1754.9948886963014,22.91199385714124,1741.2456131508177,190,0.9979229289049344,0.1279944761586587,0.0021867180703742,1.1246053742213686,0.8688919544219971,0.8738361597061157,29.42982939339987,0.56902417601595,79,"Sous vide cooking is incredibly versatile, and you can cook a wide variety of foods using this method. Here are some examples:
+
+* Proteins: Steak, chicken, fish, pork, lamb, duck, eggs, tofu, and even insects (for the adventurous!)
+* Vegetables: Asparagus, broccoli, cauliflower, carrots, Brussels sprouts, sweet potatoes, and many more
+* Fruits: Poached pears, apples, and peaches make for a delicious dessert
+* Grains: Cook perfect rice, quinoa, and pasta every time
+* Legumes: Beans, lentils, and chickpeas can be cooked to a perfect texture
+* Dairy: Sous vide is great for cooking creamy sauces, custards,","According to the context, you can cook almost any type of food sous vide, including:
+
+* Meat: beef, pork, lamb, game, poultry
+* Fish and seafood
+* Vegetables
+* Eggs
+* Fruits
+* Custard-style ice cream base
+* Béarnaise sauce
+* Crème Anglaise
+* Custards
+* Cheese
+* Yogurt
+* Cakes"
+962179,when was the salvation army founded,20,-0.0028613361064344,1767.4712760467398,291.8524543073622,1592.3569421262162,190,0.9971427536141044,0.1467839237634037,0.0260103910335347,1.1283204427573872,0.9266216158866882,0.9524545073509216,21.767118682817745,2.7878576348031547,21,"The Salvation Army was founded on July 5, 1865, by William Booth and Catherine Booth in London, England.",The Salvation Army was founded in 1865 by William Booth and his wife Catherine in London's East End.

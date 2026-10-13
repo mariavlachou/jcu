@@ -1,0 +1,760 @@
+qid,query,docno,rank,score
+1030303,who is aziz hashim,8726435,0,-0.002862405963242054
+1030303,who is aziz hashim,8726434,1,-0.5082849860191345
+1030303,who is aziz hashim,8726437,2,-0.0019337303237989545
+1030303,who is aziz hashim,8726436,3,-0.015286431647837162
+1030303,who is aziz hashim,8726430,4,-0.12512105703353882
+1030303,who is aziz hashim,7156982,5,-0.017012963071465492
+1037496,who is rep scalise?,4912163,0,-0.10420021414756775
+1037496,who is rep scalise?,4760909,1,-0.6738994717597961
+1037496,who is rep scalise?,5491912,2,-10.50162410736084
+1037496,who is rep scalise?,3725934,3,-0.005300397519022226
+1037496,who is rep scalise?,2902707,4,-3.066035747528076
+1037496,who is rep scalise?,55963,5,-6.126091480255127
+1037496,who is rep scalise?,3852733,6,-1.505052089691162
+1037496,who is rep scalise?,3725937,7,-0.04158098250627518
+1037496,who is rep scalise?,4187305,8,-0.03761269524693489
+1037496,who is rep scalise?,2871530,9,-2.419931411743164
+1037496,who is rep scalise?,4912160,10,-0.01699245348572731
+1037496,who is rep scalise?,4993566,11,-2.4120912551879883
+1037496,who is rep scalise?,2725825,12,-0.011625047773122787
+1037496,who is rep scalise?,4760914,13,-0.2642478048801422
+1037496,who is rep scalise?,3725936,14,-1.5366004705429077
+1037496,who is rep scalise?,7287404,15,-0.12847736477851868
+1037496,who is rep scalise?,4912167,16,-0.003753285389393568
+1037496,who is rep scalise?,4187303,17,-0.03570619970560074
+1037496,who is rep scalise?,7766583,18,-0.005439125467091799
+1037496,who is rep scalise?,4760915,19,-0.04270525276660919
+1043135,who killed nicholas ii of russia,8696960,0,-0.011824987828731537
+1043135,who killed nicholas ii of russia,2664995,1,-0.010702473111450672
+1043135,who killed nicholas ii of russia,5058738,2,-9.444724082946777
+1043135,who killed nicholas ii of russia,8696952,3,-0.004698901902884245
+1043135,who killed nicholas ii of russia,2664986,4,-0.013685446232557297
+1043135,who killed nicholas ii of russia,4994428,5,-0.010834439657628536
+1043135,who killed nicholas ii of russia,8696956,6,-0.010937265120446682
+1043135,who killed nicholas ii of russia,3378240,7,-0.12262401729822159
+1043135,who killed nicholas ii of russia,2664990,8,-0.23888856172561646
+1043135,who killed nicholas ii of russia,2443321,9,-2.9206016063690186
+1043135,who killed nicholas ii of russia,7137848,10,-2.739300012588501
+1043135,who killed nicholas ii of russia,2443319,11,-0.03816350921988487
+1043135,who killed nicholas ii of russia,1356426,12,-9.06243896484375
+1043135,who killed nicholas ii of russia,8696953,13,-0.03682376444339752
+1043135,who killed nicholas ii of russia,8696961,14,-0.007029800210148096
+1043135,who killed nicholas ii of russia,7022079,15,-0.014512695372104645
+1043135,who killed nicholas ii of russia,1637695,16,-0.10370824486017227
+1043135,who killed nicholas ii of russia,650642,17,-0.004179552663117647
+1043135,who killed nicholas ii of russia,3878608,18,-0.025995133444666862
+1043135,who killed nicholas ii of russia,650641,19,-0.017499804496765137
+1051399,who sings monk theme song,69818,0,-0.001640999224036932
+1051399,who sings monk theme song,3943229,1,-0.01016452070325613
+1051399,who sings monk theme song,2378828,2,-13.635467529296875
+1051399,who sings monk theme song,3943228,3,-0.00397059740498662
+1051399,who sings monk theme song,69813,4,-0.0022888195235282183
+1051399,who sings monk theme song,5180963,5,-13.821664810180664
+1051399,who sings monk theme song,5180962,6,-13.797226905822754
+1051399,who sings monk theme song,5180967,7,-13.765628814697266
+1051399,who sings monk theme song,4426187,8,-0.006354247219860554
+1051399,who sings monk theme song,3943224,9,-0.057029545307159424
+1064670,why do hunters pattern their shotguns?,8734273,0,-0.06418434530496597
+1064670,why do hunters pattern their shotguns?,8680901,1,-0.0028826133348047733
+1064670,why do hunters pattern their shotguns?,8680904,2,-0.0016941969515755773
+1064670,why do hunters pattern their shotguns?,8680903,3,-0.001904937089420855
+1071750,why is pete rose banned from hall of fame,3575934,0,-0.0035153755452483892
+1071750,why is pete rose banned from hall of fame,8378383,1,-0.1033656969666481
+1071750,why is pete rose banned from hall of fame,4794978,2,-6.875498294830322
+1071750,why is pete rose banned from hall of fame,8378391,3,-0.1404668688774109
+1071750,why is pete rose banned from hall of fame,4717401,4,-0.013622064143419266
+1071750,why is pete rose banned from hall of fame,8698275,5,-0.09316093474626541
+1071750,why is pete rose banned from hall of fame,8378390,6,-0.008791785687208176
+1071750,why is pete rose banned from hall of fame,3719926,7,-0.08839867264032364
+1105792,define: geon,8201614,0,-0.005901649594306946
+1105792,define: geon,8699816,1,-8.414539337158203
+1105792,define: geon,8201612,2,-0.006748740561306477
+1105792,define: geon,7102720,3,-6.432940483093262
+1105792,define: geon,8201611,4,-0.007842582650482655
+1105792,define: geon,8201616,5,-0.008971736766397953
+1105792,define: geon,8201613,6,-0.005791194271296263
+1106979,define pareto chart in statistics,3290649,0,-0.00636336812749505
+1106979,define pareto chart in statistics,348057,1,-0.018449485301971436
+1106979,define pareto chart in statistics,6221486,2,-0.03501522168517113
+1106979,define pareto chart in statistics,2306620,3,-0.0034696399234235287
+1106979,define pareto chart in statistics,799359,4,-0.0025643580593168736
+1106979,define pareto chart in statistics,1039252,5,-0.14303812384605408
+1106979,define pareto chart in statistics,3290646,6,-0.04570852592587471
+1106979,define pareto chart in statistics,8190140,7,-0.005022765137255192
+1106979,define pareto chart in statistics,8190134,8,-0.007330543827265501
+1106979,define pareto chart in statistics,8190139,9,-0.010454414412379265
+1106979,define pareto chart in statistics,8190138,10,-0.010086281225085258
+1106979,define pareto chart in statistics,7674419,11,-0.21960020065307617
+1106979,define pareto chart in statistics,348054,12,-0.026638632640242577
+1106979,define pareto chart in statistics,2375312,13,-0.42188987135887146
+1106979,define pareto chart in statistics,2884219,14,-0.009919751435518265
+1106979,define pareto chart in statistics,8190133,15,-0.006081054452806711
+1106979,define pareto chart in statistics,8190137,16,-0.006382320541888475
+1106979,define pareto chart in statistics,3290651,17,-0.0032742007169872522
+1108651,what the best way to get clothes white,1421354,0,-0.1941397339105606
+1108651,what the best way to get clothes white,7545003,1,-6.719729423522949
+1108651,what the best way to get clothes white,1421355,2,-0.027390751987695694
+1108651,what the best way to get clothes white,4572520,3,-9.046429634094238
+1108651,what the best way to get clothes white,3941207,4,-5.5978803634643555
+1108651,what the best way to get clothes white,3102788,5,-0.11100193858146667
+1108651,what the best way to get clothes white,7654968,6,-9.913591384887695
+1108651,what the best way to get clothes white,865539,7,-11.196189880371094
+1108651,what the best way to get clothes white,6048405,8,-8.118574142456055
+1108651,what the best way to get clothes white,3909388,9,-0.36060631275177
+1108651,what the best way to get clothes white,8175412,10,-0.003795326454564929
+1108651,what the best way to get clothes white,5878614,11,-3.5930371284484863
+1108651,what the best way to get clothes white,3102792,12,-0.005354112479835749
+1108651,what the best way to get clothes white,5066712,13,-0.02493062987923622
+1108651,what the best way to get clothes white,2589362,14,-8.440658569335938
+1108651,what the best way to get clothes white,1649640,15,-9.047456741333008
+1108651,what the best way to get clothes white,6731792,16,-0.15001559257507324
+1108651,what the best way to get clothes white,7341607,17,-13.160027503967285
+1108651,what the best way to get clothes white,5830553,18,-0.13377465307712555
+1108651,what the best way to get clothes white,7654965,19,-5.31343936920166
+1109707,what medium do radio waves travel through,5947139,0,-0.014007706195116043
+1109707,what medium do radio waves travel through,5688650,1,-10.658224105834961
+1109707,what medium do radio waves travel through,5415865,2,-0.3311278522014618
+1109707,what medium do radio waves travel through,74490,3,-10.96792221069336
+1109707,what medium do radio waves travel through,6238285,4,-0.11557740718126297
+1109707,what medium do radio waves travel through,3039465,5,-0.024958536028862
+1109707,what medium do radio waves travel through,8165492,6,-1.1359302997589111
+1109707,what medium do radio waves travel through,7241559,7,-8.032272338867188
+1109707,what medium do radio waves travel through,2031422,8,-10.482192993164062
+1109707,what medium do radio waves travel through,7233616,9,-1.7776861190795898
+1109707,what medium do radio waves travel through,1207305,10,-0.7288894653320312
+1109707,what medium do radio waves travel through,1736725,11,-7.581418514251709
+1109707,what medium do radio waves travel through,1671348,12,-0.2768774926662445
+1109707,what medium do radio waves travel through,4370752,13,-0.11594212800264359
+1109707,what medium do radio waves travel through,3676846,14,-8.747659683227539
+1109707,what medium do radio waves travel through,7554894,15,-9.65938949584961
+1109707,what medium do radio waves travel through,5971133,16,-10.584230422973633
+1109707,what medium do radio waves travel through,4772152,17,-3.699085235595703
+1109707,what medium do radio waves travel through,771745,18,-5.922144412994385
+1109707,what medium do radio waves travel through,4122615,19,-0.06123052537441254
+1110678,what is the un fao,8155912,0,-0.033500295132398605
+1110678,what is the un fao,2713703,1,-2.054229259490967
+1110678,what is the un fao,2713709,2,-0.7614527940750122
+1110678,what is the un fao,8155913,3,-0.025007368996739388
+1113256,what is reba mcentire's net worth,7561117,0,-0.07758496701717377
+1113256,what is reba mcentire's net worth,7561114,1,-0.001954313600435853
+1113256,what is reba mcentire's net worth,8130528,2,-0.40482085943222046
+1113256,what is reba mcentire's net worth,7561120,3,-0.0012688927818089724
+1113256,what is reba mcentire's net worth,8130529,4,-0.013742828741669655
+1113256,what is reba mcentire's net worth,7561118,5,-0.01358948927372694
+1113256,what is reba mcentire's net worth,7561115,6,-0.0024246361572295427
+1113256,what is reba mcentire's net worth,8130530,7,-0.001914812484756112
+1113256,what is reba mcentire's net worth,7561111,8,-0.0018724543042480946
+1113256,what is reba mcentire's net worth,8130535,9,-0.0017031225143000484
+1113256,what is reba mcentire's net worth,7561116,10,-0.05277024954557419
+1113256,what is reba mcentire's net worth,7561113,11,-0.0016581370728090405
+1115210,what is chaff and flare,8111886,0,-0.0759730339050293
+1115210,what is chaff and flare,8111879,1,-0.45441824197769165
+1115210,what is chaff and flare,5769768,2,-10.133209228515625
+1116380,what is a nonconformity? earth science,8100542,0,-0.09955769777297974
+1116380,what is a nonconformity? earth science,8100545,1,-0.12403165549039841
+1116380,what is a nonconformity? earth science,3588234,2,-0.16245776414871216
+1116380,what is a nonconformity? earth science,684558,3,-0.1913667917251587
+1116380,what is a nonconformity? earth science,5752652,4,-0.22435207664966583
+1116380,what is a nonconformity? earth science,283267,5,-0.01700335368514061
+1121353,what can you do about discrimination in the workplace in oklahoma city,8053109,0,-0.025446638464927673
+1121353,what can you do about discrimination in the workplace in oklahoma city,8053108,1,-0.01771649159491062
+1121353,what can you do about discrimination in the workplace in oklahoma city,8053112,2,-0.03737891837954521
+1122767,what amino produces carnitine,4550504,0,-0.026711640879511833
+1122767,what amino produces carnitine,5796709,1,-0.05142265185713768
+1122767,what amino produces carnitine,6727509,2,-2.0156607627868652
+1122767,what amino produces carnitine,1176273,3,-3.3711044788360596
+1122767,what amino produces carnitine,884952,4,-0.3865305185317993
+1122767,what amino produces carnitine,4784605,5,-0.044406335800886154
+1122767,what amino produces carnitine,668427,6,-0.48952001333236694
+1122767,what amino produces carnitine,8039582,7,-0.20671553909778595
+1122767,what amino produces carnitine,4461311,8,-2.6707746982574463
+1122767,what amino produces carnitine,1901639,9,-0.07696560770273209
+1122767,what amino produces carnitine,2019367,10,-0.03041081503033638
+1122767,what amino produces carnitine,5285491,11,-0.10284674912691116
+1122767,what amino produces carnitine,884946,12,-1.9569876194000244
+1122767,what amino produces carnitine,8039583,13,-0.10714510828256607
+1122767,what amino produces carnitine,468959,14,-0.03196829557418823
+1122767,what amino produces carnitine,3559293,15,-3.53086519241333
+1122767,what amino produces carnitine,4102083,16,-0.04705769941210747
+1122767,what amino produces carnitine,6049010,17,-12.17212200164795
+1122767,what amino produces carnitine,2859907,18,-0.06555227190256119
+1122767,what amino produces carnitine,6179210,19,-0.1116209402680397
+1127540,meaning of shebang,8726961,0,-0.004875556565821171
+1127540,meaning of shebang,8726954,1,-0.009103694930672646
+1127540,meaning of shebang,2044368,2,-0.003917164634913206
+1127540,meaning of shebang,8726956,3,-0.010990206152200699
+1127540,meaning of shebang,8726958,4,-0.003594605950638652
+1127540,meaning of shebang,2044372,5,-0.022338664159178734
+1127540,meaning of shebang,2574460,6,-5.451943397521973
+1127540,meaning of shebang,8726957,7,-0.008822626434266567
+1127540,meaning of shebang,8726959,8,-0.01649235002696514
+1127540,meaning of shebang,5728333,9,-2.6816771030426025
+1127540,meaning of shebang,2044366,10,-0.004066057503223419
+1127540,meaning of shebang,2044369,11,-0.01192559115588665
+1127540,meaning of shebang,5728324,12,-0.24886709451675415
+1131069,how many sons robert kraft has,2805726,0,-0.233062282204628
+1131069,how many sons robert kraft has,8432050,1,-0.0042188456282019615
+1131069,how many sons robert kraft has,6907808,2,-0.20777150988578796
+1132532,average annual income data analyst,1012084,0,-10.804610252380371
+1132532,average annual income data analyst,6514640,1,-11.684735298156738
+1132532,average annual income data analyst,8307656,2,-0.004615724552422762
+1132532,average annual income data analyst,6189364,3,-0.009431094862520695
+1132532,average annual income data analyst,23962,4,-9.759337425231934
+1132532,average annual income data analyst,6832797,5,-1.8882288932800293
+1132532,average annual income data analyst,5382160,6,-11.377741813659668
+1132532,average annual income data analyst,7508490,7,-0.01111117098480463
+1132532,average annual income data analyst,5446724,8,-10.341525077819824
+1132532,average annual income data analyst,4851677,9,-0.03362997993826866
+1132532,average annual income data analyst,6832789,10,-0.009817175567150116
+1132532,average annual income data analyst,5754557,11,-12.812684059143066
+1132532,average annual income data analyst,4110870,12,-0.049831125885248184
+1132532,average annual income data analyst,6176606,13,-0.02495737373828888
+1132532,average annual income data analyst,661416,14,-9.518628120422363
+1132532,average annual income data analyst,1258885,15,-10.909035682678223
+1132532,average annual income data analyst,5053525,16,-0.08481288701295853
+1132532,average annual income data analyst,2495473,17,-10.670947074890137
+1132532,average annual income data analyst,6189366,18,-0.014404010027647018
+1132532,average annual income data analyst,6832788,19,-0.07732096314430237
+1133579,how does granulation tissue start,733208,0,-0.06316008418798447
+1133579,how does granulation tissue start,8379135,1,-0.01721511036157608
+1133579,how does granulation tissue start,4668677,2,-2.1885266304016113
+1133579,how does granulation tissue start,4274865,3,-0.036938656121492386
+1133579,how does granulation tissue start,1817055,4,-0.004596264101564884
+1133579,how does granulation tissue start,1200778,5,-0.019210945814847946
+1133579,how does granulation tissue start,4057642,6,-0.021942928433418274
+1133579,how does granulation tissue start,3321778,7,-0.8446094989776611
+1133579,how does granulation tissue start,1659308,8,-0.04994283244013786
+1133579,how does granulation tissue start,4931641,9,-0.009074398316442966
+1133579,how does granulation tissue start,1817052,10,-0.026618899777531624
+1133579,how does granulation tissue start,6600375,11,-0.019354071468114853
+1133579,how does granulation tissue start,4057637,12,-0.06847622990608215
+1133579,how does granulation tissue start,733203,13,-0.046426188200712204
+1133579,how does granulation tissue start,8220878,14,-0.0052891322411596775
+1133579,how does granulation tissue start,4274863,15,-0.03894737362861633
+1133579,how does granulation tissue start,4931642,16,-0.012726283632218838
+1136043,difference between a hotel and motel,8728074,0,-0.009926007129251957
+1136043,difference between a hotel and motel,6963072,1,-13.100720405578613
+1136043,difference between a hotel and motel,1634134,2,-0.02848612517118454
+1136043,difference between a hotel and motel,8728072,3,-0.02182081714272499
+1136043,difference between a hotel and motel,1056534,4,-0.17120075225830078
+1136043,difference between a hotel and motel,1642217,5,-7.877969264984131
+1136043,difference between a hotel and motel,1634131,6,-0.5429192781448364
+1136043,difference between a hotel and motel,6464521,7,-10.101237297058105
+1136043,difference between a hotel and motel,8728070,8,-0.15880927443504333
+1136043,difference between a hotel and motel,6464515,9,-9.514569282531738
+1136043,difference between a hotel and motel,8728076,10,-0.008613694459199905
+1136047,difference between a company's strategy and business model is,3009412,0,-2.0099270343780518
+1136047,difference between a company's strategy and business model is,512482,1,-0.01231377199292183
+1136047,difference between a company's strategy and business model is,8724031,2,-0.0030020668637007475
+1136047,difference between a company's strategy and business model is,7009393,3,-0.02809501811861992
+1136047,difference between a company's strategy and business model is,6499345,4,-0.014279447495937347
+1136047,difference between a company's strategy and business model is,8328670,5,-0.027168842032551765
+1136962,"why did the ancient egyptians call their land kemet, or black land?",6842810,0,-0.7817468047142029
+1136962,"why did the ancient egyptians call their land kemet, or black land?",3348372,1,-0.012337792664766312
+1136962,"why did the ancient egyptians call their land kemet, or black land?",3049179,2,-9.480399131774902
+1136962,"why did the ancient egyptians call their land kemet, or black land?",6185717,3,-0.016600340604782104
+1136962,"why did the ancient egyptians call their land kemet, or black land?",3586539,4,-0.15166695415973663
+1136962,"why did the ancient egyptians call their land kemet, or black land?",6185711,5,-0.006687877234071493
+1136962,"why did the ancient egyptians call their land kemet, or black land?",3293337,6,-0.009987499564886093
+1136962,"why did the ancient egyptians call their land kemet, or black land?",7621135,7,-0.2082122415304184
+1136962,"why did the ancient egyptians call their land kemet, or black land?",3492138,8,-11.758075714111328
+1136962,"why did the ancient egyptians call their land kemet, or black land?",6185714,9,-0.017598900943994522
+1136962,"why did the ancient egyptians call their land kemet, or black land?",3504821,10,-2.69773006439209
+1136962,"why did the ancient egyptians call their land kemet, or black land?",3646987,11,-0.1569913774728775
+1136962,"why did the ancient egyptians call their land kemet, or black land?",6185710,12,-0.013873453252017498
+1136962,"why did the ancient egyptians call their land kemet, or black land?",2458254,13,-10.82739543914795
+1136962,"why did the ancient egyptians call their land kemet, or black land?",6185712,14,-0.02035163901746273
+1136962,"why did the ancient egyptians call their land kemet, or black land?",3863653,15,-0.06226236745715141
+1136962,"why did the ancient egyptians call their land kemet, or black land?",5414508,16,-0.12002536654472351
+1136962,"why did the ancient egyptians call their land kemet, or black land?",6185715,17,-0.015510172583162785
+1136962,"why did the ancient egyptians call their land kemet, or black land?",7631079,18,-0.008989812806248665
+1136962,"why did the ancient egyptians call their land kemet, or black land?",2668190,19,-0.011074034497141838
+118440,define bmt medical,3156621,0,-12.326769828796387
+118440,define bmt medical,4070255,1,-9.643401145935059
+118440,define bmt medical,6185398,2,-4.792529582977295
+118440,define bmt medical,2607752,3,-5.237408638000488
+118440,define bmt medical,6035767,4,-5.874079704284668
+118440,define bmt medical,3156626,5,-6.317642688751221
+118440,define bmt medical,2699184,6,-9.80564022064209
+118440,define bmt medical,1595384,7,-10.016765594482422
+118440,define bmt medical,1697395,8,-12.581124305725098
+118440,define bmt medical,7447687,9,-12.410818099975586
+118440,define bmt medical,2131740,10,-8.084378242492676
+118440,define bmt medical,1363115,11,-10.458948135375977
+118440,define bmt medical,5845642,12,-10.085749626159668
+118440,define bmt medical,6535690,13,-11.99661636352539
+118440,define bmt medical,8367839,14,-10.962505340576172
+118440,define bmt medical,1363111,15,-9.384134292602539
+118440,define bmt medical,5577877,16,-0.36719220876693726
+118440,define bmt medical,7273638,17,-6.627769947052002
+118440,define bmt medical,3683472,18,-6.662116527557373
+118440,define bmt medical,6802137,19,-0.15955530107021332
+121171,define etruscans,2631826,0,-8.053095817565918
+121171,define etruscans,2631827,1,-5.373464107513428
+121171,define etruscans,3029510,2,-10.231416702270508
+121171,define etruscans,2550814,3,-0.10746730864048004
+121171,define etruscans,2839813,4,-10.082630157470703
+121171,define etruscans,2132420,5,-3.796846866607666
+121171,define etruscans,8260194,6,-1.8245315551757812
+121171,define etruscans,6580478,7,-6.598158836364746
+121171,define etruscans,451174,8,-0.4001532793045044
+121171,define etruscans,5930982,9,-5.63311767578125
+121171,define etruscans,8201175,10,-11.73137378692627
+121171,define etruscans,2226651,11,-11.458637237548828
+121171,define etruscans,2550806,12,-0.9546518325805664
+121171,define etruscans,2780362,13,-11.42286491394043
+121171,define etruscans,6580481,14,-10.522480964660645
+121171,define etruscans,7242773,15,-9.289007186889648
+121171,define etruscans,451169,16,-10.194761276245117
+121171,define etruscans,3092263,17,-4.991239547729492
+121171,define etruscans,3818498,18,-11.627012252807617
+121171,define etruscans,1648244,19,-11.031620025634766
+135802,definition of laudable,8692622,0,-5.95401668548584
+135802,definition of laudable,8692625,1,-3.1458160877227783
+135802,definition of laudable,8692628,2,-0.0027554186526685953
+135802,definition of laudable,8692626,3,-0.0026913394685834646
+135802,definition of laudable,8692624,4,-0.009440423920750618
+135802,definition of laudable,8692623,5,-0.002642593812197447
+135802,definition of laudable,8692619,6,-0.004222644027322531
+135802,definition of laudable,8692627,7,-4.145216464996338
+135802,definition of laudable,8692621,8,-0.8747063875198364
+141630,describe how muscles and bones work together to produce movement,6007469,0,-0.0819830521941185
+141630,describe how muscles and bones work together to produce movement,8319993,1,-0.03357280418276787
+141630,describe how muscles and bones work together to produce movement,3500851,2,-0.018065320327878
+141630,describe how muscles and bones work together to produce movement,885784,3,-0.02216845005750656
+141630,describe how muscles and bones work together to produce movement,8319992,4,-0.0950443297624588
+141630,describe how muscles and bones work together to produce movement,2686304,5,-0.17236842215061188
+141630,describe how muscles and bones work together to produce movement,8319987,6,-0.015673192217946053
+141630,describe how muscles and bones work together to produce movement,1157249,7,-0.03889119252562523
+141630,describe how muscles and bones work together to produce movement,6486090,8,-0.07875489443540573
+141630,describe how muscles and bones work together to produce movement,6319711,9,-0.04044606164097786
+141630,describe how muscles and bones work together to produce movement,6638749,10,-0.050788793712854385
+141630,describe how muscles and bones work together to produce movement,3500858,11,-0.0695779100060463
+141630,describe how muscles and bones work together to produce movement,4718251,12,-0.15337276458740234
+156498,do google docs auto save,3669926,0,-0.024927839636802673
+156498,do google docs auto save,1066785,1,-0.007445089053362608
+156498,do google docs auto save,3301559,2,-0.005011259578168392
+156498,do google docs auto save,4960216,3,-0.023107536137104034
+156498,do google docs auto save,104801,4,-0.0029396675527095795
+156498,do google docs auto save,4273419,5,-0.013123919256031513
+156498,do google docs auto save,3301563,6,-0.008591238409280777
+169208,does mississippi have an income tax,4762134,0,-0.15978354215621948
+169208,does mississippi have an income tax,4859433,1,-0.0031009467784315348
+169208,does mississippi have an income tax,7251639,2,-0.013747178949415684
+169208,does mississippi have an income tax,4762141,3,-0.031130176037549973
+169208,does mississippi have an income tax,4859432,4,-0.004603502340614796
+169208,does mississippi have an income tax,1395413,5,-0.005321267060935497
+169208,does mississippi have an income tax,4859437,6,-0.007399296388030052
+169208,does mississippi have an income tax,4762135,7,-0.007950682193040848
+169208,does mississippi have an income tax,7251632,8,-4.268007755279541
+169208,does mississippi have an income tax,85987,9,-0.00697972672060132
+169208,does mississippi have an income tax,2888367,10,-0.00628873985260725
+169208,does mississippi have an income tax,4580133,11,-0.008229749277234077
+174463,dog day afternoon meaning,470710,0,-0.30741599202156067
+174463,dog day afternoon meaning,6083369,1,-0.41541850566864014
+174463,dog day afternoon meaning,2157112,2,-6.83538818359375
+174463,dog day afternoon meaning,2533624,3,-0.027224410325288773
+174463,dog day afternoon meaning,5264563,4,-9.464568138122559
+174463,dog day afternoon meaning,1835371,5,-0.15383200347423553
+174463,dog day afternoon meaning,1788353,6,-9.90241813659668
+174463,dog day afternoon meaning,4452293,7,-11.51239013671875
+174463,dog day afternoon meaning,5688368,8,-9.8211088180542
+174463,dog day afternoon meaning,1024761,9,-0.7263259291648865
+174463,dog day afternoon meaning,1835377,10,-0.04225624352693558
+174463,dog day afternoon meaning,1788355,11,-6.968889236450195
+174463,dog day afternoon meaning,1854165,12,-12.239956855773926
+174463,dog day afternoon meaning,470712,13,-0.04615257307887077
+174463,dog day afternoon meaning,470708,14,-0.046375203877687454
+174463,dog day afternoon meaning,1835375,15,-0.21934989094734192
+174463,dog day afternoon meaning,1024762,16,-2.7780330181121826
+174463,dog day afternoon meaning,470713,17,-0.7440165281295776
+174463,dog day afternoon meaning,1024765,18,-10.463539123535156
+174463,dog day afternoon meaning,6083368,19,-1.1354904174804688
+23849,are naturalization records public information,4556933,0,-0.017840158194303513
+23849,are naturalization records public information,4016317,1,-7.673713207244873
+23849,are naturalization records public information,6688742,2,-1.5506600141525269
+23849,are naturalization records public information,5913890,3,-0.3616577386856079
+23849,are naturalization records public information,1414114,4,-9.681572914123535
+23849,are naturalization records public information,640772,5,-10.588177680969238
+23849,are naturalization records public information,1034183,6,-7.006539821624756
+23849,are naturalization records public information,2838462,7,-1.3233280181884766
+23849,are naturalization records public information,7845081,8,-0.167099729180336
+23849,are naturalization records public information,1381453,9,-4.959758281707764
+23849,are naturalization records public information,2607132,10,-9.793234825134277
+23849,are naturalization records public information,8010558,11,-0.02869870886206627
+23849,are naturalization records public information,5740854,12,-11.72143840789795
+23849,are naturalization records public information,8010559,13,-0.21631938219070435
+23849,are naturalization records public information,1158886,14,-0.47345519065856934
+23849,are naturalization records public information,8010561,15,-0.012183531187474728
+23849,are naturalization records public information,8336161,16,-10.808318138122559
+23849,are naturalization records public information,4556932,17,-0.18280765414237976
+23849,are naturalization records public information,587451,18,-8.753392219543457
+23849,are naturalization records public information,590926,19,-8.040189743041992
+258062,how long does it take to remove wisdom tooth,4174313,0,-0.04537160322070122
+258062,how long does it take to remove wisdom tooth,1311741,1,-0.02264159917831421
+258062,how long does it take to remove wisdom tooth,2898169,2,-0.07496266067028046
+258062,how long does it take to remove wisdom tooth,3777927,3,-4.612792015075684
+258062,how long does it take to remove wisdom tooth,4595795,4,-0.01810278370976448
+258062,how long does it take to remove wisdom tooth,2421112,5,-13.915202140808105
+258062,how long does it take to remove wisdom tooth,3777933,6,-5.741060256958008
+258062,how long does it take to remove wisdom tooth,2995130,7,-5.178340911865234
+258062,how long does it take to remove wisdom tooth,1805967,8,-0.026176661252975464
+258062,how long does it take to remove wisdom tooth,3777936,9,-11.516050338745117
+258062,how long does it take to remove wisdom tooth,4174310,10,-0.15354382991790771
+258062,how long does it take to remove wisdom tooth,955813,11,-0.014488492161035538
+258062,how long does it take to remove wisdom tooth,6084339,12,-0.10900835692882538
+258062,how long does it take to remove wisdom tooth,8694161,13,-0.015161979012191296
+258062,how long does it take to remove wisdom tooth,955811,14,-0.02908819168806076
+258062,how long does it take to remove wisdom tooth,6990374,15,-0.030665304511785507
+258062,how long does it take to remove wisdom tooth,3777930,16,-4.231472969055176
+258062,how long does it take to remove wisdom tooth,91493,17,-0.02499992772936821
+258062,how long does it take to remove wisdom tooth,8694163,18,-0.15549524128437042
+258062,how long does it take to remove wisdom tooth,6084336,19,-0.0224237609654665
+324585,how much money do motivational speakers make,8310499,0,-0.004305260721594095
+324585,how much money do motivational speakers make,8310502,1,-0.007855948060750961
+324585,how much money do motivational speakers make,1536988,2,-0.005912433844059706
+324585,how much money do motivational speakers make,8290314,3,-0.00259420252405107
+324585,how much money do motivational speakers make,8500123,4,-0.004730343818664551
+324585,how much money do motivational speakers make,8290309,5,-0.005280950106680393
+324585,how much money do motivational speakers make,8310498,6,-0.009441369213163853
+324585,how much money do motivational speakers make,405281,7,-0.00402675848454237
+324585,how much money do motivational speakers make,1536990,8,-0.008037840016186237
+324585,how much money do motivational speakers make,1536995,9,-0.02213895134627819
+324585,how much money do motivational speakers make,8500121,10,-0.00869204942137003
+330975,how much would it cost to install my own wind turbine,3297858,0,-0.03185421600937843
+330975,how much would it cost to install my own wind turbine,1748537,1,-7.403563499450684
+330975,how much would it cost to install my own wind turbine,3240112,2,-0.03436453640460968
+330975,how much would it cost to install my own wind turbine,7074784,3,-0.5150229930877686
+330975,how much would it cost to install my own wind turbine,1637261,4,-0.04049471765756607
+330975,how much would it cost to install my own wind turbine,1748533,5,-10.682705879211426
+330975,how much would it cost to install my own wind turbine,5393805,6,-0.07152984291315079
+330975,how much would it cost to install my own wind turbine,7074787,7,-0.07145404070615768
+330975,how much would it cost to install my own wind turbine,3857965,8,-0.02296762727200985
+330975,how much would it cost to install my own wind turbine,4392147,9,-0.04941401258111
+330975,how much would it cost to install my own wind turbine,8541461,10,-0.041131243109703064
+330975,how much would it cost to install my own wind turbine,7074783,11,-0.06637654453516006
+330975,how much would it cost to install my own wind turbine,5427108,12,-0.049241989850997925
+330975,how much would it cost to install my own wind turbine,7394956,13,-10.011676788330078
+330975,how much would it cost to install my own wind turbine,233952,14,-0.04551786929368973
+330975,how much would it cost to install my own wind turbine,6310762,15,-0.03481997922062874
+330975,how much would it cost to install my own wind turbine,8327012,16,-0.0863555371761322
+330975,how much would it cost to install my own wind turbine,5393803,17,-0.04972916096448898
+330975,how much would it cost to install my own wind turbine,4108178,18,-0.06689669191837311
+330975,how much would it cost to install my own wind turbine,8327008,19,-0.057826895266771317
+332593,how often to button quail lay eggs,4023720,0,-1.0060603618621826
+332593,how often to button quail lay eggs,967688,1,-9.260846138000488
+332593,how often to button quail lay eggs,4056943,2,-9.381590843200684
+332593,how often to button quail lay eggs,3883458,3,-6.052257061004639
+332593,how often to button quail lay eggs,8434874,4,-0.14262805879116058
+332593,how often to button quail lay eggs,1650687,5,-0.25269439816474915
+332593,how often to button quail lay eggs,8434873,6,-0.03044458106160164
+332593,how often to button quail lay eggs,5241321,7,-0.02901628240942955
+332593,how often to button quail lay eggs,1594766,8,-7.329378128051758
+332593,how often to button quail lay eggs,7073996,9,-0.1506257951259613
+332593,how often to button quail lay eggs,5975274,10,-2.198129415512085
+332593,how often to button quail lay eggs,8434871,11,-0.008577173575758934
+332593,how often to button quail lay eggs,3731313,12,-0.10068389028310776
+332593,how often to button quail lay eggs,6616559,13,-0.882123589515686
+332593,how often to button quail lay eggs,8749229,14,-0.08344048261642456
+332593,how often to button quail lay eggs,931415,15,-0.19353558123111725
+332593,how often to button quail lay eggs,5241328,16,-0.07302816957235336
+332593,how often to button quail lay eggs,6514781,17,-0.007144025061279535
+332593,how often to button quail lay eggs,1167184,18,-0.07778703421354294
+332593,how often to button quail lay eggs,8434869,19,-0.18314072489738464
+336901,how old is vanessa redgrave,8528674,0,-5.890053749084473
+336901,how old is vanessa redgrave,8528675,1,-0.002650797599926591
+336901,how old is vanessa redgrave,6096613,2,-0.009651308879256248
+390360,ia suffix meaning,749113,0,-4.045790195465088
+390360,ia suffix meaning,3999219,1,-2.220095634460449
+390360,ia suffix meaning,7666614,2,-0.4405275285243988
+390360,ia suffix meaning,4619218,3,-0.07119351625442505
+390360,ia suffix meaning,2173448,4,-8.075724601745605
+390360,ia suffix meaning,7807146,5,-0.06371725350618362
+390360,ia suffix meaning,8630614,6,-0.006267060991376638
+390360,ia suffix meaning,8630612,7,-0.004006930161267519
+390360,ia suffix meaning,5423359,8,-0.03199092298746109
+390360,ia suffix meaning,4619216,9,-0.03925563767552376
+390360,ia suffix meaning,7186643,10,-7.230952262878418
+390360,ia suffix meaning,8630611,11,-0.006905499845743179
+390360,ia suffix meaning,8630618,12,-0.023682113736867905
+390360,ia suffix meaning,8630609,13,-0.1055302768945694
+405163,is caffeine an narcotic,1352545,0,-7.9374918937683105
+405163,is caffeine an narcotic,7474485,1,-12.85352611541748
+405163,is caffeine an narcotic,4788556,2,-12.596197128295898
+405163,is caffeine an narcotic,7002128,3,-12.923632621765137
+405163,is caffeine an narcotic,3912290,4,-11.677734375
+405163,is caffeine an narcotic,7474487,5,-12.009002685546875
+405163,is caffeine an narcotic,7334718,6,-10.71105670928955
+405163,is caffeine an narcotic,8175453,7,-12.386002540588379
+405163,is caffeine an narcotic,6913942,8,-12.232843399047852
+405163,is caffeine an narcotic,6743551,9,-11.980173110961914
+405163,is caffeine an narcotic,6289819,10,-12.06212329864502
+405163,is caffeine an narcotic,5252816,11,-12.313809394836426
+405163,is caffeine an narcotic,3790610,12,-12.523957252502441
+405163,is caffeine an narcotic,7622492,13,-1.8631565570831299
+405163,is caffeine an narcotic,8204766,14,-12.586992263793945
+405163,is caffeine an narcotic,1352550,15,-12.93239974975586
+405163,is caffeine an narcotic,558752,16,-9.503576278686523
+405163,is caffeine an narcotic,1352549,17,-12.9320068359375
+405163,is caffeine an narcotic,4607791,18,-12.505804061889648
+405163,is caffeine an narcotic,6796411,19,-11.528146743774414
+42255,average salary for dental hygienist in nebraska,8746189,0,-0.0028413659892976284
+42255,average salary for dental hygienist in nebraska,8746196,1,-0.10719843953847885
+42255,average salary for dental hygienist in nebraska,8746188,2,-0.008441480807960033
+42255,average salary for dental hygienist in nebraska,8746191,3,-0.019295139238238335
+42255,average salary for dental hygienist in nebraska,8746195,4,-5.323985576629639
+42255,average salary for dental hygienist in nebraska,8746197,5,-0.002319504739716649
+47210,average wedding dress alteration cost,1880177,0,-0.11044787615537643
+47210,average wedding dress alteration cost,2042920,1,-0.13984587788581848
+47210,average wedding dress alteration cost,7509248,2,-0.023462407290935516
+47210,average wedding dress alteration cost,5301402,3,-0.14589416980743408
+47210,average wedding dress alteration cost,2546002,4,-0.004309296607971191
+47210,average wedding dress alteration cost,4007103,5,-0.22657451033592224
+47210,average wedding dress alteration cost,1839675,6,-0.3671819865703583
+47210,average wedding dress alteration cost,4007105,7,-0.14348313212394714
+47210,average wedding dress alteration cost,2546007,8,-0.008609320968389511
+47210,average wedding dress alteration cost,2042922,9,-0.19617173075675964
+47210,average wedding dress alteration cost,7367872,10,-0.013346144929528236
+47210,average wedding dress alteration cost,6502207,11,-0.025485452264547348
+47210,average wedding dress alteration cost,2042918,12,-0.008786232210695744
+47210,average wedding dress alteration cost,6168275,13,-0.17509210109710693
+47210,average wedding dress alteration cost,4007107,14,-0.12534698843955994
+47210,average wedding dress alteration cost,3304362,15,-0.01534419134259224
+47210,average wedding dress alteration cost,6168520,16,-0.21388450264930725
+47210,average wedding dress alteration cost,1839669,17,-0.09848803281784058
+47210,average wedding dress alteration cost,6180503,18,-0.026074113324284554
+47210,average wedding dress alteration cost,2042924,19,-0.24716585874557495
+555530,what are best foods to lower cholesterol,424015,0,-0.7814385294914246
+555530,what are best foods to lower cholesterol,4232303,1,-12.720389366149902
+555530,what are best foods to lower cholesterol,1975068,2,-7.729002475738525
+555530,what are best foods to lower cholesterol,1973125,3,-9.6207275390625
+555530,what are best foods to lower cholesterol,6723619,4,-0.6099457740783691
+555530,what are best foods to lower cholesterol,1409667,5,-0.04292888194322586
+555530,what are best foods to lower cholesterol,1901474,6,-8.186385154724121
+555530,what are best foods to lower cholesterol,2184274,7,-4.961186408996582
+555530,what are best foods to lower cholesterol,4955824,8,-12.851831436157227
+555530,what are best foods to lower cholesterol,6188188,9,-10.752922058105469
+555530,what are best foods to lower cholesterol,934203,10,-10.250207901000977
+555530,what are best foods to lower cholesterol,684321,11,-7.720751762390137
+555530,what are best foods to lower cholesterol,1112927,12,-1.1460623741149902
+555530,what are best foods to lower cholesterol,3320938,13,-5.973768711090088
+555530,what are best foods to lower cholesterol,6078228,14,-0.007475852966308594
+555530,what are best foods to lower cholesterol,8414352,15,-0.7841470837593079
+555530,what are best foods to lower cholesterol,6719375,16,-6.966241359710693
+555530,what are best foods to lower cholesterol,4200820,17,-0.23480425775051117
+555530,what are best foods to lower cholesterol,2161297,18,-12.914888381958008
+555530,what are best foods to lower cholesterol,5846399,19,-0.08663073182106018
+583468,what carvedilol used for,7491704,0,-0.04260004684329033
+583468,what carvedilol used for,8144451,1,-0.09205722063779831
+583468,what carvedilol used for,7450717,2,-0.015562989749014378
+583468,what carvedilol used for,7491699,3,-0.1232941523194313
+583468,what carvedilol used for,2267052,4,-0.018156634643673897
+583468,what carvedilol used for,7450718,5,-0.021981295198202133
+583468,what carvedilol used for,2267054,6,-0.025677064433693886
+583468,what carvedilol used for,2267050,7,-0.45502960681915283
+583468,what carvedilol used for,2080305,8,-0.7034798860549927
+583468,what carvedilol used for,119358,9,-0.025276603177189827
+583468,what carvedilol used for,7450725,10,-0.009695346467196941
+583468,what carvedilol used for,8395840,11,-0.027224643155932426
+583468,what carvedilol used for,5623835,12,-5.12705135345459
+583468,what carvedilol used for,5623834,13,-9.385302543640137
+583468,what carvedilol used for,3466610,14,-0.04103708267211914
+583468,what carvedilol used for,1675564,15,-0.018863920122385025
+583468,what carvedilol used for,1546128,16,-0.030349524691700935
+583468,what carvedilol used for,7465955,17,-0.021858956664800644
+583468,what carvedilol used for,7744350,18,-0.012306471355259418
+583468,what carvedilol used for,6578660,19,-0.09242388606071472
+640502,what does it mean if your tsh is low,3551380,0,-0.050110653042793274
+640502,what does it mean if your tsh is low,1754997,1,-0.04600059613585472
+640502,what does it mean if your tsh is low,8628509,2,-12.060433387756348
+640502,what does it mean if your tsh is low,6850717,3,-12.206637382507324
+640502,what does it mean if your tsh is low,1854589,4,-10.283348083496094
+640502,what does it mean if your tsh is low,8471417,5,-0.14619888365268707
+640502,what does it mean if your tsh is low,598202,6,-0.017544083297252655
+640502,what does it mean if your tsh is low,1957247,7,-0.04483215510845184
+640502,what does it mean if your tsh is low,2121023,8,-11.131172180175781
+640502,what does it mean if your tsh is low,2778108,9,-7.503347396850586
+640502,what does it mean if your tsh is low,6914960,10,-0.7158566117286682
+640502,what does it mean if your tsh is low,3926698,11,-7.658568382263184
+640502,what does it mean if your tsh is low,2146065,12,-0.3760935366153717
+640502,what does it mean if your tsh is low,6730883,13,-0.14273886382579803
+640502,what does it mean if your tsh is low,5505906,14,-9.562874794006348
+640502,what does it mean if your tsh is low,894100,15,-10.304877281188965
+640502,what does it mean if your tsh is low,3678130,16,-0.12515324354171753
+640502,what does it mean if your tsh is low,343072,17,-6.54484224319458
+640502,what does it mean if your tsh is low,7880194,18,-6.684703350067139
+640502,what does it mean if your tsh is low,914682,19,-8.18517017364502
+67316,can fever cause miscarriage early pregnancy,2930661,0,-6.413417339324951
+67316,can fever cause miscarriage early pregnancy,1401789,1,-7.886301040649414
+67316,can fever cause miscarriage early pregnancy,6680964,2,-0.015762144699692726
+67316,can fever cause miscarriage early pregnancy,6725832,3,-11.645417213439941
+67316,can fever cause miscarriage early pregnancy,3393479,4,-6.572052001953125
+67316,can fever cause miscarriage early pregnancy,7114279,5,-8.755064964294434
+67316,can fever cause miscarriage early pregnancy,6680966,6,-9.25879192352295
+67316,can fever cause miscarriage early pregnancy,2930660,7,-0.0856965109705925
+67316,can fever cause miscarriage early pregnancy,3250707,8,-9.615948677062988
+67316,can fever cause miscarriage early pregnancy,6387611,9,-0.2533300220966339
+67316,can fever cause miscarriage early pregnancy,209707,10,-13.672276496887207
+67316,can fever cause miscarriage early pregnancy,800359,11,-10.102734565734863
+67316,can fever cause miscarriage early pregnancy,8312258,12,-10.396470069885254
+67316,can fever cause miscarriage early pregnancy,7418438,13,-6.933426380157471
+67316,can fever cause miscarriage early pregnancy,6387612,14,-12.745464324951172
+67316,can fever cause miscarriage early pregnancy,7348851,15,-0.025533562526106834
+67316,can fever cause miscarriage early pregnancy,7019081,16,-1.3846155405044556
+67316,can fever cause miscarriage early pregnancy,4540631,17,-13.367234230041504
+67316,can fever cause miscarriage early pregnancy,4789319,18,-13.617990493774414
+67316,can fever cause miscarriage early pregnancy,8312265,19,-10.578001976013184
+673670,what is a alm,7257300,0,-7.608067035675049
+673670,what is a alm,3345267,1,-3.9670417308807373
+673670,what is a alm,316790,2,-8.585261344909668
+673670,what is a alm,1868789,3,-10.497100830078125
+673670,what is a alm,3345269,4,-5.855437755584717
+673670,what is a alm,1511454,5,-0.8507891893386841
+673670,what is a alm,7257297,6,-6.463515758514404
+673670,what is a alm,1398748,7,-2.263890504837036
+673670,what is a alm,3006587,8,-7.791861057281494
+673670,what is a alm,7257301,9,-0.02257983200252056
+673670,what is a alm,8008345,10,-9.928445816040039
+673670,what is a alm,1511452,11,-0.07769659906625748
+673670,what is a alm,1511460,12,-0.6544279456138611
+673670,what is a alm,7257302,13,-0.01553646381944418
+673670,what is a alm,1511455,14,-7.515809059143066
+673670,what is a alm,8064649,15,-10.674371719360352
+673670,what is a alm,1511459,16,-0.06513931602239609
+673670,what is a alm,3863633,17,-8.811779975891113
+701453,what is a statutory deed,4355647,0,-0.011542798019945621
+701453,what is a statutory deed,8402346,1,-0.11941090226173401
+701453,what is a statutory deed,8402349,2,-0.33548545837402344
+701453,what is a statutory deed,4330672,3,-0.22431159019470215
+701453,what is a statutory deed,7806569,4,-0.03751946613192558
+701453,what is a statutory deed,4355649,5,-0.04236548766493797
+701453,what is a statutory deed,7259848,6,-0.0646292045712471
+701453,what is a statutory deed,8626140,7,-0.020341943949460983
+701453,what is a statutory deed,4330677,8,-0.02322879061102867
+701453,what is a statutory deed,688614,9,-0.00781975407153368
+701453,what is a statutory deed,4330679,10,-0.010409231297671795
+701453,what is a statutory deed,2017216,11,-7.597326278686523
+701453,what is a statutory deed,688615,12,-0.008049429394304752
+701453,what is a statutory deed,8626149,13,-1.3019167184829712
+701453,what is a statutory deed,4355643,14,-1.592726230621338
+701453,what is a statutory deed,688618,15,-0.015396547503769398
+730539,what is chronometer who invented it,8577878,0,-6.840444564819336
+730539,what is chronometer who invented it,4605022,1,-0.0326407290995121
+730539,what is chronometer who invented it,8276218,2,-0.017394136637449265
+730539,what is chronometer who invented it,4118696,3,-11.84584903717041
+730539,what is chronometer who invented it,4118698,4,-12.833890914916992
+730539,what is chronometer who invented it,8577877,5,-0.010647512041032314
+730539,what is chronometer who invented it,5452882,6,-5.918239116668701
+730539,what is chronometer who invented it,2666444,7,-0.007134792860597372
+730539,what is chronometer who invented it,8276221,8,-0.2901824712753296
+730539,what is chronometer who invented it,8276225,9,-1.4568108320236206
+768208,what is mamey,52160,0,-5.036821365356445
+768208,what is mamey,52157,1,-0.036781709641218185
+768208,what is mamey,8525681,2,-2.096794605255127
+768208,what is mamey,52155,3,-0.18538545072078705
+768208,what is mamey,8525683,4,-2.3321452140808105
+768208,what is mamey,813102,5,-1.8327319622039795
+768208,what is mamey,52161,6,-3.6338021755218506
+877809,what metal are hip replacements made of,3716286,0,-0.07335535436868668
+877809,what metal are hip replacements made of,35111,1,-0.005462007597088814
+877809,what metal are hip replacements made of,5196144,2,-0.19941207766532898
+877809,what metal are hip replacements made of,4888929,3,-0.0035602774005383253
+877809,what metal are hip replacements made of,1550610,4,-0.003872872330248356
+877809,what metal are hip replacements made of,1719922,5,-6.604996204376221
+877809,what metal are hip replacements made of,2581230,6,-8.117975234985352
+877809,what metal are hip replacements made of,1495856,7,-0.4697154760360718
+877809,what metal are hip replacements made of,5196148,8,-0.03499196842312813
+877809,what metal are hip replacements made of,788184,9,-1.279510259628296
+877809,what metal are hip replacements made of,4888926,10,-0.01011330634355545
+877809,what metal are hip replacements made of,5063956,11,-9.225126266479492
+877809,what metal are hip replacements made of,788181,12,-0.029690243303775787
+877809,what metal are hip replacements made of,6269998,13,-2.227628231048584
+877809,what metal are hip replacements made of,6770400,14,-0.3555162250995636
+877809,what metal are hip replacements made of,5063961,15,-3.098176956176758
+877809,what metal are hip replacements made of,726822,16,-2.541527509689331
+877809,what metal are hip replacements made of,2298374,17,-0.0648602768778801
+877809,what metal are hip replacements made of,5063955,18,-9.101972579956055
+877809,what metal are hip replacements made of,1335170,19,-0.019191298633813858
+911232,"what type of conflict does della face in o, henry the gift of the magi",8816620,0,-0.010053591802716255
+911232,"what type of conflict does della face in o, henry the gift of the magi",6928653,1,-8.955947875976562
+911232,"what type of conflict does della face in o, henry the gift of the magi",8816622,2,-0.007682894356548786
+911232,"what type of conflict does della face in o, henry the gift of the magi",6928655,3,-0.013373669236898422
+914916,what type of tissue are bronchioles,1835661,0,-5.953091144561768
+914916,what type of tissue are bronchioles,5380650,1,-2.202462673187256
+914916,what type of tissue are bronchioles,1027218,2,-0.4829194247722626
+914916,what type of tissue are bronchioles,3170857,3,-1.0050461292266846
+914916,what type of tissue are bronchioles,2631746,4,-6.260813236236572
+914916,what type of tissue are bronchioles,3152169,5,-4.764088153839111
+914916,what type of tissue are bronchioles,2989236,6,-0.8767380118370056
+914916,what type of tissue are bronchioles,5730357,7,-1.4069122076034546
+914916,what type of tissue are bronchioles,1183903,8,-1.4858347177505493
+914916,what type of tissue are bronchioles,8772520,9,-0.2518918812274933
+914916,what type of tissue are bronchioles,5890307,10,-9.46226692199707
+914916,what type of tissue are bronchioles,1183904,11,-2.175739049911499
+914916,what type of tissue are bronchioles,8772517,12,-0.37200966477394104
+914916,what type of tissue are bronchioles,4854255,13,-6.2672247886657715
+914916,what type of tissue are bronchioles,5890301,14,-9.284345626831055
+914916,what type of tissue are bronchioles,3763841,15,-0.6689193248748779
+914916,what type of tissue are bronchioles,4768595,16,-7.901047229766846
+914916,what type of tissue are bronchioles,5681257,17,-2.843712091445923
+914916,what type of tissue are bronchioles,7798480,18,-1.256989598274231
+914916,what type of tissue are bronchioles,5439629,19,-1.4774224758148193
+938400,when did family feud come out?,4956064,0,-0.0075792609713971615
+938400,when did family feud come out?,2009157,1,-1.1932880878448486
+938400,when did family feud come out?,8309429,2,-2.9587345123291016
+938400,when did family feud come out?,3820294,3,-0.04057587683200836
+938400,when did family feud come out?,504473,4,-7.895531177520752
+938400,when did family feud come out?,2962208,5,-0.05768624693155289
+938400,when did family feud come out?,3914686,6,-0.014527382329106331
+938400,when did family feud come out?,4956059,7,-0.06594306230545044
+938400,when did family feud come out?,2484350,8,-2.090015172958374
+938400,when did family feud come out?,3914687,9,-4.908288478851318
+938400,when did family feud come out?,7787197,10,-0.10073250532150269
+938400,when did family feud come out?,3353755,11,-0.04042499512434006
+938400,when did family feud come out?,7004406,12,-0.00768100144341588
+938400,when did family feud come out?,3353760,13,-4.429520606994629
+938400,when did family feud come out?,3088746,14,-0.040574848651885986
+938400,when did family feud come out?,4956057,15,-0.03872113302350044
+938400,when did family feud come out?,3035288,16,-1.2961652278900146
+938400,when did family feud come out?,8678066,17,-0.012439049780368805
+938400,when did family feud come out?,3353764,18,-0.037133023142814636
+938400,when did family feud come out?,8723838,19,-7.198835372924805
+940547,when did rock n roll begin?,5831707,0,-1.2680273056030273
+940547,when did rock n roll begin?,5831708,1,-0.029164958745241165
+940547,when did rock n roll begin?,4800890,2,-0.028301889076828957
+940547,when did rock n roll begin?,8219249,3,-0.024668166413903236
+940547,when did rock n roll begin?,5300647,4,-0.47988560795783997
+940547,when did rock n roll begin?,2826200,5,-7.750300884246826
+940547,when did rock n roll begin?,7282174,6,-0.053443990647792816
+940547,when did rock n roll begin?,6938106,7,-4.57180118560791
+940547,when did rock n roll begin?,8269679,8,-6.23667573928833
+940547,when did rock n roll begin?,8219044,9,-0.4194542467594147
+940547,when did rock n roll begin?,8772071,10,-0.07490957528352737
+940547,when did rock n roll begin?,8772073,11,-0.023101363331079483
+940547,when did rock n roll begin?,5300654,12,-0.047693245112895966
+940547,when did rock n roll begin?,5831711,13,-0.13637812435626984
+940547,when did rock n roll begin?,1335718,14,-0.056940026581287384
+940547,when did rock n roll begin?,2404877,15,-6.830962181091309
+940547,when did rock n roll begin?,7290071,16,-9.21906566619873
+940547,when did rock n roll begin?,4377478,17,-9.720398902893066
+940547,when did rock n roll begin?,5270014,18,-1.544321894645691
+940547,when did rock n roll begin?,6298951,19,-2.6330788135528564
+997622,where is the show shameless filmed,4643394,0,-0.0029242157470434904
+997622,where is the show shameless filmed,4643388,1,-0.019718457013368607
+997622,where is the show shameless filmed,4643392,2,-0.0021349035669118166
+997622,where is the show shameless filmed,73459,3,-0.16105340421199799
+997622,where is the show shameless filmed,4643397,4,-0.004214453510940075
+997622,where is the show shameless filmed,4543861,5,-0.03222227096557617
+997622,where is the show shameless filmed,72291,6,-0.002970332745462656
+997622,where is the show shameless filmed,8813537,7,-0.0028586022090166807
+997622,where is the show shameless filmed,4543867,8,-0.00194110709708184
+997622,where is the show shameless filmed,4543864,9,-2.2745625972747803
+997622,where is the show shameless filmed,4543869,10,-0.004192610736936331
+997622,where is the show shameless filmed,8533348,11,-0.0021387101151049137
+997622,where is the show shameless filmed,73465,12,-0.0027088159695267677
+997622,where is the show shameless filmed,4643389,13,-0.01003966573625803
+997622,where is the show shameless filmed,4518222,14,-0.0036011389456689358
+997622,where is the show shameless filmed,73460,15,-0.0050021265633404255
+997622,where is the show shameless filmed,73462,16,-0.004273805767297745
+997622,where is the show shameless filmed,4543865,17,-0.003438514657318592
